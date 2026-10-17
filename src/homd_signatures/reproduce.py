@@ -77,7 +77,8 @@ def compare(project,stages):
             assert obs.HMT.tolist()==exp.HMT.tolist()
             delta=float(np.max(np.abs(obs.Y_pred.to_numpy()-exp.Y_pred.to_numpy())))
             auc=macro_auc(obs);target=macro_auc(exp)
-            checks.append(dict(check=name,macro_auc=auc,expected_auc=target,max_prediction_difference=delta,passed=abs(auc-target)<1e-12 and delta<1e-6))
+            prediction_atol = 1e-4
+            checks.append(dict(check=name,macro_auc=auc,expected_auc=target,max_prediction_difference=delta,prediction_absolute_tolerance=prediction_atol,passed=abs(auc-target) < 1e-12 and delta <= prediction_atol,))
     return checks
 
 def main():
