@@ -1,0 +1,618 @@
+[
+  {
+    "type": "HxlR/SnoaL2",
+    "Genus": "Actinomyces",
+    "GCA": "GCA_001956355.1",
+    "HMT": "HMT-176",
+    "protein1": "GCA_001956355.1_01712",
+    "protein2": "GCA_001956355.1_01713",
+    "distance_bp": 86,
+    "strand1": "-",
+    "strand2": "+",
+    "anchor_start": 25428,
+    "anchor_end": 26926,
+    "contig": "GCA_001956355.1|MSRH01000026.1",
+    "genes": [
+      {
+        "gene": "GCA_001956355.1_01710",
+        "start": 22722,
+        "end": 23951,
+        "strand": "+",
+        "contig": "GCA_001956355.1|MSRH01000026.1",
+        "product": "Purine efflux pump PbuE"
+      },
+      {
+        "gene": "GCA_001956355.1_01711",
+        "start": 24081,
+        "end": 24971,
+        "strand": "+",
+        "contig": "GCA_001956355.1|MSRH01000026.1",
+        "product": "putative 3-hydroxyisobutyrate dehydrogenase"
+      },
+      {
+        "gene": "GCA_001956355.1_01712",
+        "start": 25428,
+        "end": 25859,
+        "strand": "-",
+        "contig": "GCA_001956355.1|MSRH01000026.1",
+        "product": "putative HTH-type transcriptional regulator YybR"
+      },
+      {
+        "gene": "GCA_001956355.1_01713",
+        "start": 25946,
+        "end": 26926,
+        "strand": "+",
+        "contig": "GCA_001956355.1|MSRH01000026.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001956355.1_01714",
+        "start": 27081,
+        "end": 29075,
+        "strand": "+",
+        "contig": "GCA_001956355.1|MSRH01000026.1",
+        "product": "hypothetical protein"
+      }
+    ]
+  },
+  {
+    "type": "HxlR/SnoaL2",
+    "Genus": "Porphyromonas",
+    "GCA": "GCA_002892595.1",
+    "HMT": "HMT-619",
+    "protein1": "GCA0028925951_01326",
+    "protein2": "GCA0028925951_01327",
+    "distance_bp": 132,
+    "strand1": "-",
+    "strand2": "+",
+    "anchor_start": 1534389,
+    "anchor_end": 1535243,
+    "contig": "gnl|Prokka|GCA0028925951_1",
+    "genes": [
+      {
+        "gene": "GCA0028925951_01323",
+        "start": 1531452,
+        "end": 1532300,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA0028925951_01324",
+        "start": 1532423,
+        "end": 1533508,
+        "strand": "+",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "IS5 family transposase ISPg8"
+      },
+      {
+        "gene": "GCA0028925951_01325",
+        "start": 1533671,
+        "end": 1534351,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA0028925951_01326",
+        "start": 1534389,
+        "end": 1534703,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "HTH-type transcriptional activator HxlR"
+      },
+      {
+        "gene": "GCA0028925951_01327",
+        "start": 1534836,
+        "end": 1535243,
+        "strand": "+",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA0028925951_01328",
+        "start": 1535369,
+        "end": 1535731,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA0028925951_01329",
+        "start": 1535738,
+        "end": 1536940,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "Tyrosine recombinase XerC"
+      },
+      {
+        "gene": "GCA0028925951_01330",
+        "start": 1536966,
+        "end": 1538195,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0028925951_1",
+        "product": "Tyrosine recombinase XerC"
+      }
+    ]
+  },
+  {
+    "type": "HxlR/SnoaL2",
+    "Genus": "Prevotella",
+    "GCA": "GCA_001548195.1",
+    "HMT": "HMT-643",
+    "protein1": "GCA_001548195.1_02254",
+    "protein2": "GCA_001548195.1_02255",
+    "distance_bp": 132,
+    "strand1": "-",
+    "strand2": "+",
+    "anchor_start": 1969652,
+    "anchor_end": 1970506,
+    "contig": "GCA_001548195.1|AP014925.1",
+    "genes": [
+      {
+        "gene": "GCA_001548195.1_02251",
+        "start": 1966603,
+        "end": 1967961,
+        "strand": "-",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "Multidrug export protein MepA"
+      },
+      {
+        "gene": "GCA_001548195.1_02252",
+        "start": 1968058,
+        "end": 1968906,
+        "strand": "-",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001548195.1_02253",
+        "start": 1968934,
+        "end": 1969563,
+        "strand": "-",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001548195.1_02254",
+        "start": 1969652,
+        "end": 1969966,
+        "strand": "-",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "HTH-type transcriptional activator HxlR"
+      },
+      {
+        "gene": "GCA_001548195.1_02255",
+        "start": 1970099,
+        "end": 1970506,
+        "strand": "+",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001548195.1_02256",
+        "start": 1970632,
+        "end": 1970994,
+        "strand": "-",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001548195.1_02257",
+        "start": 1971001,
+        "end": 1972203,
+        "strand": "-",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "Tyrosine recombinase XerC"
+      },
+      {
+        "gene": "GCA_001548195.1_02258",
+        "start": 1972229,
+        "end": 1973458,
+        "strand": "-",
+        "contig": "GCA_001548195.1|AP014925.1",
+        "product": "Tyrosine recombinase XerC"
+      }
+    ]
+  },
+  {
+    "type": "HxlR/SnoaL2",
+    "Genus": "Streptococcus",
+    "GCA": "GCA_000234035.1",
+    "HMT": "HMT-644",
+    "protein1": "GCA_000234035.1_01235",
+    "protein2": "GCA_000234035.1_01236",
+    "distance_bp": 137,
+    "strand1": "-",
+    "strand2": "+",
+    "anchor_start": 106196,
+    "anchor_end": 107064,
+    "contig": "GCA_000234035.1|JH376755.1",
+    "genes": [
+      {
+        "gene": "GCA_000234035.1_01232",
+        "start": 103612,
+        "end": 104307,
+        "strand": "+",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "Linear gramicidin dehydrogenase LgrE"
+      },
+      {
+        "gene": "GCA_000234035.1_01233",
+        "start": 104901,
+        "end": 105209,
+        "strand": "+",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_000234035.1_01234",
+        "start": 105844,
+        "end": 106035,
+        "strand": "+",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_000234035.1_01235",
+        "start": 106196,
+        "end": 106534,
+        "strand": "-",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "putative HTH-type transcriptional regulator YybR"
+      },
+      {
+        "gene": "GCA_000234035.1_01236",
+        "start": 106672,
+        "end": 107064,
+        "strand": "+",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_000234035.1_01237",
+        "start": 107253,
+        "end": 108017,
+        "strand": "+",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "Tryptophan synthase alpha chain"
+      },
+      {
+        "gene": "GCA_000234035.1_01238",
+        "start": 108080,
+        "end": 108703,
+        "strand": "+",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "Chloramphenicol acetyltransferase"
+      },
+      {
+        "gene": "GCA_000234035.1_01239",
+        "start": 108723,
+        "end": 109376,
+        "strand": "+",
+        "contig": "GCA_000234035.1|JH376755.1",
+        "product": "2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase"
+      }
+    ]
+  },
+  {
+    "type": "HxlR/SnoaL2",
+    "Genus": "Streptococcus",
+    "GCA": "GCA_003469565.1",
+    "HMT": "HMT-411",
+    "protein1": "GCA_003469565.1_02023",
+    "protein2": "GCA_003469565.1_02022",
+    "distance_bp": 73,
+    "strand1": "+",
+    "strand2": "-",
+    "anchor_start": 24517,
+    "anchor_end": 25381,
+    "contig": "GCA_003469565.1|QSKM01000008.1",
+    "genes": [
+      {
+        "gene": "GCA_003469565.1_02021",
+        "start": 22097,
+        "end": 24088,
+        "strand": "-",
+        "contig": "GCA_003469565.1|QSKM01000008.1",
+        "product": "Methionine--tRNA ligase"
+      },
+      {
+        "gene": "GCA_003469565.1_02022",
+        "start": 24517,
+        "end": 24906,
+        "strand": "-",
+        "contig": "GCA_003469565.1|QSKM01000008.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_003469565.1_02023",
+        "start": 24980,
+        "end": 25381,
+        "strand": "+",
+        "contig": "GCA_003469565.1|QSKM01000008.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_003469565.1_02024",
+        "start": 25432,
+        "end": 26124,
+        "strand": "-",
+        "contig": "GCA_003469565.1|QSKM01000008.1",
+        "product": "2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase"
+      },
+      {
+        "gene": "GCA_003469565.1_02025",
+        "start": 26269,
+        "end": 26715,
+        "strand": "-",
+        "contig": "GCA_003469565.1|QSKM01000008.1",
+        "product": "Peroxide-responsive repressor PerR"
+      },
+      {
+        "gene": "GCA_003469565.1_02026",
+        "start": 26971,
+        "end": 27126,
+        "strand": "-",
+        "contig": "GCA_003469565.1|QSKM01000008.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_003469565.1_02027",
+        "start": 27228,
+        "end": 27503,
+        "strand": "-",
+        "contig": "GCA_003469565.1|QSKM01000008.1",
+        "product": "DNA-binding protein HU"
+      }
+    ]
+  },
+  {
+    "type": "HxlR/SnoaL2",
+    "Genus": "Neisseria",
+    "GCA": "GCA_001061435.1",
+    "HMT": "HMT-598",
+    "protein1": "GCA_001061435.1_01454",
+    "protein2": "GCA_001061435.1_01450",
+    "distance_bp": 2124,
+    "strand1": "+",
+    "strand2": "+",
+    "anchor_start": 53588,
+    "anchor_end": 56572,
+    "contig": "GCA_001061435.1|JVVT01000084.1",
+    "genes": [
+      {
+        "gene": "GCA_001061435.1_01446",
+        "start": 51403,
+        "end": 51768,
+        "strand": "-",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01447",
+        "start": 51811,
+        "end": 52275,
+        "strand": "-",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01448",
+        "start": 52824,
+        "end": 53102,
+        "strand": "+",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01449",
+        "start": 53234,
+        "end": 53476,
+        "strand": "+",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01450",
+        "start": 53588,
+        "end": 53950,
+        "strand": "+",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01451",
+        "start": 54038,
+        "end": 54502,
+        "strand": "-",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01452",
+        "start": 54596,
+        "end": 55264,
+        "strand": "-",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01453",
+        "start": 55308,
+        "end": 55973,
+        "strand": "-",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "Putative NAD(P)H nitroreductase"
+      },
+      {
+        "gene": "GCA_001061435.1_01454",
+        "start": 56075,
+        "end": 56572,
+        "strand": "+",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001061435.1_01455",
+        "start": 56912,
+        "end": 57685,
+        "strand": "-",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "4%2C5-DOPA dioxygenase extradiol"
+      },
+      {
+        "gene": "GCA_001061435.1_01456",
+        "start": 57973,
+        "end": 58863,
+        "strand": "-",
+        "contig": "GCA_001061435.1|JVVT01000084.1",
+        "product": "HTH-type transcriptional regulator PgrR"
+      }
+    ]
+  },
+  {
+    "type": "PF01638/PF22166",
+    "Genus": "Fusobacterium",
+    "GCA": "GCA_001455125.1",
+    "HMT": "HMT-202",
+    "protein1": "GCA0014551251_01970",
+    "protein2": "GCA0014551251_01972",
+    "distance_bp": 616,
+    "strand1": "+",
+    "strand2": "+",
+    "anchor_start": 2059257,
+    "anchor_end": 2060667,
+    "contig": "gnl|Prokka|GCA0014551251_1",
+    "genes": [
+      {
+        "gene": "GCA0014551251_01969",
+        "start": 2056688,
+        "end": 2059117,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0014551251_1",
+        "product": "Coenzyme A disulfide reductase"
+      },
+      {
+        "gene": "GCA0014551251_01970",
+        "start": 2059257,
+        "end": 2059616,
+        "strand": "+",
+        "contig": "gnl|Prokka|GCA0014551251_1",
+        "product": "HTH-type transcriptional activator HxlR"
+      },
+      {
+        "gene": "GCA0014551251_01971",
+        "start": 2059669,
+        "end": 2060082,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0014551251_1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA0014551251_01972",
+        "start": 2060233,
+        "end": 2060667,
+        "strand": "+",
+        "contig": "gnl|Prokka|GCA0014551251_1",
+        "product": "Transcriptional regulator SlyA"
+      },
+      {
+        "gene": "GCA0014551251_01973",
+        "start": 2060724,
+        "end": 2065280,
+        "strand": "-",
+        "contig": "gnl|Prokka|GCA0014551251_1",
+        "product": "hypothetical protein"
+      }
+    ]
+  },
+  {
+    "type": "PF12680/PF10604",
+    "Genus": "Actinomyces",
+    "GCA": "GCA_001937735.1",
+    "HMT": "HMT-176",
+    "protein1": "GCA_001937735.1_00208",
+    "protein2": "GCA_001937735.1_00206",
+    "distance_bp": 496,
+    "strand1": "+",
+    "strand2": "+",
+    "anchor_start": 58564,
+    "anchor_end": 59875,
+    "contig": "GCA_001937735.1|MSKX01000003.1",
+    "genes": [
+      {
+        "gene": "GCA_001937735.1_00203",
+        "start": 54059,
+        "end": 56419,
+        "strand": "-",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "Phosphoribosylformylglycinamidine synthase subunit PurL"
+      },
+      {
+        "gene": "GCA_001937735.1_00204",
+        "start": 56630,
+        "end": 58042,
+        "strand": "+",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "Trehalose synthase"
+      },
+      {
+        "gene": "GCA_001937735.1_00205",
+        "start": 58236,
+        "end": 58571,
+        "strand": "+",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001937735.1_00206",
+        "start": 58564,
+        "end": 58998,
+        "strand": "+",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001937735.1_00207",
+        "start": 59020,
+        "end": 59400,
+        "strand": "+",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001937735.1_00208",
+        "start": 59495,
+        "end": 59875,
+        "strand": "+",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "hypothetical protein"
+      },
+      {
+        "gene": "GCA_001937735.1_00209",
+        "start": 60519,
+        "end": 61229,
+        "strand": "-",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "Phosphoribosylformylglycinamidine synthase subunit PurQ"
+      },
+      {
+        "gene": "GCA_001937735.1_00210",
+        "start": 61233,
+        "end": 61487,
+        "strand": "-",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "Phosphoribosylformylglycinamidine synthase subunit PurS"
+      },
+      {
+        "gene": "GCA_001937735.1_00211",
+        "start": 61576,
+        "end": 63306,
+        "strand": "-",
+        "contig": "GCA_001937735.1|MSKX01000003.1",
+        "product": "hypothetical protein"
+      }
+    ]
+  }
+]

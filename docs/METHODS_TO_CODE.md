@@ -1,0 +1,17 @@
+# Methods-to-code index
+
+The folder headings below match the current manuscript Methods. Start with the compact reproduction commands; upstream and exploratory scripts require the inputs listed in their section guides.
+
+| Methods section | Code and guide | Inputs | Outputs / paper | Entry command |
+|---|---|---|---|---|
+| Study design and taxon selection | [01_study_design](../analysis/01_study_design/README.md) | Cohort metadata and documented assembly exclusions | 47 HMTs, 13 genera, 1,121 genomes; Fig. 1 | `python run.py cohort` |
+| Construction of the ecological habitat-affinity phenotype | [02_ecological_phenotype](../analysis/02_ecological_phenotype/README.md) | Six abundance summaries and HMT manifest | Original and source-family-balanced habitat scores; Figs. 1 and 5 | `python run.py prepare` |
+| Genome retrieval, quality control and taxonomic assignment | [03_genome_retrieval_qc](../analysis/03_genome_retrieval_qc/README.md) | Accession manifest, public assembly downloads and CheckM2 metadata | Retained genome accessions and annotation inputs; Fig. 1 | `python run.py cohort` |
+| Genome annotation and HMT-level genomic profiles | [04_genomic_profiles](../analysis/04_genomic_profiles/README.md) | Prokka proteins/tables, Pfam models, EC mappings and MMseqs2 clusters | HMT prevalence matrices and 13,917 distinct profiles; Figs. 2–3 | `python run.py prepare` |
+| Phylogenetic reconstruction and sister-pair definition | [05_phylogeny](../analysis/05_phylogeny/README.md) | Representative proteomes, 18 marker alignments and species tree | 47-tip phylogeny and eight opposing-habitat sister pairs; Fig. 1 and Extended Data Fig. 1 | `python run.py prepare` |
+| Genus-balanced feature contrasts and permutation testing | [06_feature_screen](../analysis/06_feature_screen/README.md) | Frozen 47-HMT matrix, habitat labels and genome covariates | 119 raw nominal, 23 jointly nominal, 14 breadth-filtered candidates; Fig. 2 | `python run.py screen` |
+| Repertoire-wide tests of directional coherence | [07_repertoire_coherence](../analysis/07_repertoire_coherence/README.md) | Deduplicated profiles, genus labels and genome covariates | Six layers × two scaling choices; Fig. 3d | `python run.py prepare` |
+| Protein sequence clusters and genomic neighbourhood analysis | [08_proteins_neighbourhoods](../analysis/08_proteins_neighbourhoods/README.md) | Protein/cluster dictionaries, Pfam calls, GFF coordinates and ecology | Protein repertoires, linked loci and supplementary candidate audit; Figs. 3–4 | `python run.py atlas` |
+| Nested leave-one-genus-out prediction | [09_nested_prediction](../analysis/09_nested_prediction/README.md) | Frozen matrix, both ecological outcomes and genome covariates | Four observed models, null distributions and uncertainty; Fig. 5 | `python run.py prediction` |
+| Post hoc feature exclusion and additional ecological sensitivity | [10_feature_exclusion_sensitivity](../analysis/10_feature_exclusion_sensitivity/README.md) | Feature matrix, exclusion lists and source-specific abundance summaries | Feature exclusion and five site-contrast sensitivity results | `python run.py prepare` |
+| Computing and reproducibility | [11_computing_reproducibility](../analysis/11_computing_reproducibility/README.md) | Pinned dependencies, frozen inputs and archived reference outputs | Scientific regression checks and editable R figures | `python run.py check` |

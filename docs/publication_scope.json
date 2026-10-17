@@ -1,0 +1,52 @@
+{
+  "primary": {
+    "genera": 13,
+    "HMTs": 47,
+    "genomes": 1121,
+    "plaque_HMTs": 24,
+    "mucosal_HMTs": 23,
+    "high_confidence_HMTs": 32,
+    "moderate_confidence_HMTs": 15,
+    "nonredundant_profiles": 13917
+  },
+  "main_figures": [
+    {
+      "figure": "1",
+      "subject": "13-genus ecological and phylogenetic atlas",
+      "primary_population": "47 HMTs / 13 genera / 1121 genomes",
+      "sources": "01_genome_manifests; 07_phylogeny; handoff/Y_ecology.tsv",
+      "status": "Plotting source and inputs included; R scripts and exports included; see docs/TEST_REPORT.md"
+    },
+    {
+      "figure": "2",
+      "subject": "Genus-balanced functional atlas: 14 exploratory candidates and curated 41-feature display",
+      "primary_population": "47 HMTs / 13 genera / 13917 profiles",
+      "sources": "10_additional_analyses_20261012/crossgenus_feature_integrated_raw_adjusted_annotated.tsv; figures/Figure2",
+      "status": "Plotting source and inputs included; R scripts and exports included; see docs/TEST_REPORT.md"
+    },
+    {
+      "figure": "3",
+      "subject": "Domain recurrence, full-length protein diversity and repertoire heterogeneity",
+      "primary_population": "Original 1121-genome protein collection / 47 HMT ecology",
+      "sources": "11_manuscript_completion_20261013/candidate_Pfam_*; figures/Figure3/Figure3_source_aggregate.json",
+      "status": "Plotting source and inputs included; R scripts and exports included; see docs/TEST_REPORT.md"
+    },
+    {
+      "figure": "4",
+      "subject": "Conserved orientation and variable sequence-cluster pairs at linked loci",
+      "primary_population": "Original 1121-genome collection",
+      "sources": "10_additional_analyses_20261012/crossgenus_candidate_*; 11_manuscript_completion_20261013/HxlR_SnoaL2_*; figures/Figure4",
+      "status": "Plotting source and inputs included; R scripts and exports included; see docs/TEST_REPORT.md"
+    },
+    {
+      "figure": "5",
+      "subject": "Nested prediction in held-out genera, uncertainty and genome-composition sensitivity",
+      "primary_population": "47 HMTs / 13 outer genus-held-out folds",
+      "sources": "11_manuscript_completion_20261013/nested_genusbalanced_*; covadjusted_*; predictive_macroAUC_genus_bootstrap95.tsv",
+      "status": "Plotting source and inputs included; R scripts and exports included; see docs/TEST_REPORT.md"
+    }
+  ],
+  "supplement_recent_followups": true,
+  "broader_survey": "631 representative HMT genomes; not strain prevalence",
+  "release_status": "Publication source and compact reproducibility package; verification recorded in docs/TEST_REPORT.md"
+}

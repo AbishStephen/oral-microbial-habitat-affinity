@@ -1,0 +1,419 @@
+{
+  "pred": [
+    {
+      "HMT": "HMT-013",
+      "Genus": "Neisseria",
+      "Ecology": "plaque",
+      "Y_pred": 0.4572092890739441
+    },
+    {
+      "HMT": "HMT-021",
+      "Genus": "Streptococcus",
+      "Ecology": "mucosal",
+      "Y_pred": -2.57588005065918
+    },
+    {
+      "HMT": "HMT-046",
+      "Genus": "Gemella",
+      "Ecology": "plaque",
+      "Y_pred": -2.8640620708465576
+    },
+    {
+      "HMT": "HMT-124",
+      "Genus": "Selenomonas",
+      "Ecology": "plaque",
+      "Y_pred": -3.069758176803589
+    },
+    {
+      "HMT": "HMT-136",
+      "Genus": "Selenomonas",
+      "Ecology": "mucosal",
+      "Y_pred": -0.6854116320610046
+    },
+    {
+      "HMT": "HMT-158",
+      "Genus": "Veillonella",
+      "Ecology": "mucosal",
+      "Y_pred": 0.1261792331933975
+    },
+    {
+      "HMT": "HMT-160",
+      "Genus": "Veillonella",
+      "Ecology": "mucosal",
+      "Y_pred": 0.1448814123868942
+    },
+    {
+      "HMT": "HMT-161",
+      "Genus": "Veillonella",
+      "Ecology": "plaque",
+      "Y_pred": 0.3453632593154907
+    },
+    {
+      "HMT": "HMT-169",
+      "Genus": "Actinomyces",
+      "Ecology": "plaque",
+      "Y_pred": 8.4500150680542
+    },
+    {
+      "HMT": "HMT-176",
+      "Genus": "Actinomyces",
+      "Ecology": "plaque",
+      "Y_pred": 7.803123474121094
+    },
+    {
+      "HMT": "HMT-188",
+      "Genus": "Rothia",
+      "Ecology": "plaque",
+      "Y_pred": 0.2221737802028656
+    },
+    {
+      "HMT": "HMT-200",
+      "Genus": "Fusobacterium",
+      "Ecology": "plaque",
+      "Y_pred": 1.8527507781982424
+    },
+    {
+      "HMT": "HMT-201",
+      "Genus": "Fusobacterium",
+      "Ecology": "mucosal",
+      "Y_pred": 2.2292370796203613
+    },
+    {
+      "HMT": "HMT-202",
+      "Genus": "Fusobacterium",
+      "Ecology": "plaque",
+      "Y_pred": 3.494926929473877
+    },
+    {
+      "HMT": "HMT-222",
+      "Genus": "Leptotrichia",
+      "Ecology": "plaque",
+      "Y_pred": 1.2263128757476809
+    },
+    {
+      "HMT": "HMT-279",
+      "Genus": "Porphyromonas",
+      "Ecology": "mucosal",
+      "Y_pred": -1.068835735321045
+    },
+    {
+      "HMT": "HMT-291",
+      "Genus": "Prevotella",
+      "Ecology": "plaque",
+      "Y_pred": 0.0571770258247852
+    },
+    {
+      "HMT": "HMT-298",
+      "Genus": "Prevotella",
+      "Ecology": "mucosal",
+      "Y_pred": 0.7795818448066711
+    },
+    {
+      "HMT": "HMT-307",
+      "Genus": "Segatella",
+      "Ecology": "mucosal",
+      "Y_pred": -0.0869755372405052
+    },
+    {
+      "HMT": "HMT-311",
+      "Genus": "Segatella",
+      "Ecology": "plaque",
+      "Y_pred": 0.163562998175621
+    },
+    {
+      "HMT": "HMT-313",
+      "Genus": "Prevotella",
+      "Ecology": "mucosal",
+      "Y_pred": -0.0120546743273735
+    },
+    {
+      "HMT": "HMT-411",
+      "Genus": "Streptococcus",
+      "Ecology": "mucosal",
+      "Y_pred": -2.7515878677368164
+    },
+    {
+      "HMT": "HMT-417",
+      "Genus": "Leptotrichia",
+      "Ecology": "mucosal",
+      "Y_pred": 0.9309139251708984
+    },
+    {
+      "HMT": "HMT-420",
+      "Genus": "Fusobacterium",
+      "Ecology": "plaque",
+      "Y_pred": 1.80375337600708
+    },
+    {
+      "HMT": "HMT-469",
+      "Genus": "Prevotella",
+      "Ecology": "mucosal",
+      "Y_pred": 0.4492029547691345
+    },
+    {
+      "HMT": "HMT-476",
+      "Genus": "Neisseria",
+      "Ecology": "mucosal",
+      "Y_pred": -0.1206690967082977
+    },
+    {
+      "HMT": "HMT-524",
+      "Genus": "Veillonella",
+      "Ecology": "mucosal",
+      "Y_pred": 0.1358136981725692
+    },
+    {
+      "HMT": "HMT-575",
+      "Genus": "Campylobacter",
+      "Ecology": "mucosal",
+      "Y_pred": -0.5420746207237244
+    },
+    {
+      "HMT": "HMT-598",
+      "Genus": "Neisseria",
+      "Ecology": "plaque",
+      "Y_pred": -0.0174543932080268
+    },
+    {
+      "HMT": "HMT-610",
+      "Genus": "Neisseria",
+      "Ecology": "mucosal",
+      "Y_pred": -0.4043962359428406
+    },
+    {
+      "HMT": "HMT-619",
+      "Genus": "Porphyromonas",
+      "Ecology": "plaque",
+      "Y_pred": -0.7504639029502869
+    },
+    {
+      "HMT": "HMT-622",
+      "Genus": "Streptococcus",
+      "Ecology": "plaque",
+      "Y_pred": 0.1052745282649993
+    },
+    {
+      "HMT": "HMT-626",
+      "Genus": "Gemella",
+      "Ecology": "mucosal",
+      "Y_pred": -2.9113540649414062
+    },
+    {
+      "HMT": "HMT-643",
+      "Genus": "Prevotella",
+      "Ecology": "plaque",
+      "Y_pred": 1.3256632089614868
+    },
+    {
+      "HMT": "HMT-644",
+      "Genus": "Streptococcus",
+      "Ecology": "plaque",
+      "Y_pred": -0.8388317823410034
+    },
+    {
+      "HMT": "HMT-681",
+      "Genus": "Rothia",
+      "Ecology": "mucosal",
+      "Y_pred": -1.0178403854370115
+    },
+    {
+      "HMT": "HMT-686",
+      "Genus": "Streptococcus",
+      "Ecology": "plaque",
+      "Y_pred": -1.464632272720337
+    },
+    {
+      "HMT": "HMT-693",
+      "Genus": "Prevotella",
+      "Ecology": "plaque",
+      "Y_pred": 0.1022656857967376
+    },
+    {
+      "HMT": "HMT-714",
+      "Genus": "Prevotella",
+      "Ecology": "mucosal",
+      "Y_pred": -0.6765421628952026
+    },
+    {
+      "HMT": "HMT-755",
+      "Genus": "Streptococcus",
+      "Ecology": "mucosal",
+      "Y_pred": -1.8571932315826416
+    },
+    {
+      "HMT": "HMT-757",
+      "Genus": "Gemella",
+      "Ecology": "mucosal",
+      "Y_pred": -2.862536907196045
+    },
+    {
+      "HMT": "HMT-758",
+      "Genus": "Streptococcus",
+      "Ecology": "plaque",
+      "Y_pred": -0.2771168947219848
+    },
+    {
+      "HMT": "HMT-763",
+      "Genus": "Campylobacter",
+      "Ecology": "plaque",
+      "Y_pred": -0.1703470051288604
+    },
+    {
+      "HMT": "HMT-780",
+      "Genus": "Veillonella",
+      "Ecology": "mucosal",
+      "Y_pred": 0.1261792331933975
+    },
+    {
+      "HMT": "HMT-866",
+      "Genus": "Actinomyces",
+      "Ecology": "mucosal",
+      "Y_pred": -4.970081806182861
+    },
+    {
+      "HMT": "HMT-893",
+      "Genus": "Actinomyces",
+      "Ecology": "plaque",
+      "Y_pred": 5.984744071960449
+    },
+    {
+      "HMT": "HMT-953",
+      "Genus": "Fusobacterium",
+      "Ecology": "plaque",
+      "Y_pred": 3.950489044189453
+    }
+  ],
+  "auc": [
+    {
+      "Genus": "Actinomyces",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 0.6666666666666666
+    },
+    {
+      "Genus": "Campylobacter",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Fusobacterium",
+      "sourcebalanced_genusbalanced": 0.5,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Gemella",
+      "sourcebalanced_genusbalanced": 0.5,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Leptotrichia",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 0.0
+    },
+    {
+      "Genus": "Neisseria",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Porphyromonas",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 0.0
+    },
+    {
+      "Genus": "Prevotella",
+      "sourcebalanced_genusbalanced": 0.6666666666666666,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Rothia",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Segatella",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Selenomonas",
+      "sourcebalanced_genusbalanced": 0.0,
+      "sourcebalanced_genusbalanced_covadj": 1.0
+    },
+    {
+      "Genus": "Streptococcus",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 0.9166666666666666
+    },
+    {
+      "Genus": "Veillonella",
+      "sourcebalanced_genusbalanced": 1.0,
+      "sourcebalanced_genusbalanced_covadj": 0.5
+    }
+  ],
+  "sisters": [
+    {
+      "Genus": "Leptotrichia",
+      "plaque_HMT": "HMT-222",
+      "mucosal_HMT": "HMT-417",
+      "support": 100.0,
+      "delta_PF04072": 0.16667,
+      "delta_PF12680": 0.0
+    },
+    {
+      "Genus": "Gemella",
+      "plaque_HMT": "HMT-046",
+      "mucosal_HMT": "HMT-757",
+      "support": 59.0,
+      "delta_PF04072": 0.0,
+      "delta_PF12680": 0.3
+    },
+    {
+      "Genus": "Selenomonas",
+      "plaque_HMT": "HMT-124",
+      "mucosal_HMT": "HMT-136",
+      "support": 100.0,
+      "delta_PF04072": 0.85714,
+      "delta_PF12680": 0.0
+    },
+    {
+      "Genus": "Rothia",
+      "plaque_HMT": "HMT-188",
+      "mucosal_HMT": "HMT-681",
+      "support": 100.0,
+      "delta_PF04072": 1.0,
+      "delta_PF12680": 0.84211
+    },
+    {
+      "Genus": "Campylobacter",
+      "plaque_HMT": "HMT-763",
+      "mucosal_HMT": "HMT-575",
+      "support": 100.0,
+      "delta_PF04072": 0.5,
+      "delta_PF12680": 0.25
+    },
+    {
+      "Genus": "Porphyromonas",
+      "plaque_HMT": "HMT-619",
+      "mucosal_HMT": "HMT-279",
+      "support": 100.0,
+      "delta_PF04072": -0.21739,
+      "delta_PF12680": 0.29652
+    },
+    {
+      "Genus": "Prevotella",
+      "plaque_HMT": "HMT-693",
+      "mucosal_HMT": "HMT-714",
+      "support": 100.0,
+      "delta_PF04072": 1.0,
+      "delta_PF12680": 0.16296
+    },
+    {
+      "Genus": "Segatella",
+      "plaque_HMT": "HMT-311",
+      "mucosal_HMT": "HMT-307",
+      "support": 100.0,
+      "delta_PF04072": 0.88889,
+      "delta_PF12680": 0.28571
+    }
+  ]
+}

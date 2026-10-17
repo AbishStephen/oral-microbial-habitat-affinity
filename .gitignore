@@ -1,0 +1,30 @@
+build/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.DS_Store
+
+
+# Generated exports from direct plotting runs
+figure_sources/**/*.pdf
+figure_sources/**/*.svg
+figure_sources/**/*.png
+figure_sources/**/figures/
+figure_sources/Figure5/Figure5_HMT_predictions.tsv
+figure_sources/Figure5/Figure5_genus_level_auc.tsv
+
+results/**/verified_*exports.zip
+
+# Local R installation and RStudio state
+.R_library/
+.Rproj.user/
+.Rhistory
+.RData
+renv/library/
+renv/staging/
+
+# Earlier local figure-only delivery; excluded from version control
+/HOMD_R_Figures/
+results/main_figures/
+results/supplementary/

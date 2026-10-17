@@ -1,0 +1,42 @@
+[
+  {
+    "n_genomes": 24,
+    "n_genera": 1,
+    "genera": "Streptococcus"
+  },
+  {
+    "n_genomes": 16,
+    "n_genera": 1,
+    "genera": "Actinomyces"
+  },
+  {
+    "n_genomes": 10,
+    "n_genera": 2,
+    "genera": "Porphyromonas;Prevotella"
+  },
+  {
+    "n_genomes": 9,
+    "n_genera": 1,
+    "genera": "Porphyromonas"
+  },
+  {
+    "n_genomes": 4,
+    "n_genera": 1,
+    "genera": "Prevotella"
+  },
+  {
+    "n_genomes": 2,
+    "n_genera": 1,
+    "genera": "Streptococcus"
+  },
+  {
+    "n_genomes": 1,
+    "n_genera": 1,
+    "genera": "Neisseria"
+  },
+  {
+    "n_genomes": 1,
+    "n_genera": 1,
+    "genera": "Prevotella"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "path": "expected/Figure2_A_pipeline_counts.tsv",
+    "sha256": "b118b7d671f31f5bc15f0fa4a95c72b97f612a3c41283fa3dff268af905a1f99",
+    "bytes": 205
+  },
+  {
+    "path": "expected/Figure2_B_14focal_statistics.tsv",
+    "sha256": "07d42ee608f05ae535d16f1c1823bbe411de149f031df63375e076ac970abddd",
+    "bytes": 5319
+  },
+  {
+    "path": "expected/candidate_Pfam_protein_subfamily_summary.tsv",
+    "sha256": "ea687aefe47f9472d15d0f5c163f31e85d1541b7ac4fca3748c0964776ef00f5",
+    "bytes": 1853
+  },
+  {
+    "path": "expected/covadjusted_100_withingenus_perm_null_distribution.tsv",
+    "sha256": "c1138254139ef11d73170ba29f90a182da736a677f3be471aeb4e70c27b399dd",
+    "bytes": 10631
+  },
+  {
+    "path": "expected/covadjusted_100_withingenus_perm_null_results.tsv",
+    "sha256": "5f78cf773c8c2b3976585bad7049275940e2e4370875ee287d03b690a9bb26d8",
+    "bytes": 320
+  },
+  {
+    "path": "expected/nested_genusbalanced_200_full_refit_null_distribution.tsv",
+    "sha256": "8299d6f93abe5b7492a6397e96ab1e16fa783c5afbc81659cc5bcd045a4b2f50",
+    "bytes": 21442
+  },
+  {
+    "path": "expected/nested_genusbalanced_200_full_refit_permutation_results.tsv",
+    "sha256": "61e88c9c99fcc521725761aababd2f2c6bc33e2e5382d4a871ce7d18f4c3ea71",
+    "bytes": 363
+  },
+  {
+    "path": "expected/nested_genusbalanced_covariate_residualized_original.tsv",
+    "sha256": "de7c80a896ad802c5925c3ad004332fcd3ff4c169089914e7a5ab069feeab96e",
+    "bytes": 3109
+  },
+  {
+    "path": "expected/nested_genusbalanced_covariate_residualized_original_folds.tsv",
+    "sha256": "505c94f94fce4a47320ef7cb928d2ed0877812139233c02af0f546b43357bca2",
+    "bytes": 572
+  },
+  {
+    "path": "expected/nested_genusbalanced_covariate_residualized_sourcebalanced.tsv",
+    "sha256": "9857472b3fee25c054a8e1110ed3f9f83057108053ad8e60e7cbc46909a34245",
+    "bytes": 3112
+  },
+  {
+    "path": "expected/nested_genusbalanced_covariate_residualized_sourcebalanced_folds.tsv",
+    "sha256": "425243bbe7fb50a3ff97d2ac474066d5b18751a9ac29d6ef3fda2344a427dd66",
+    "bytes": 626
+  },
+  {
+    "path": "expected/nested_genusbalanced_locus_ablation_predictions.tsv",
+    "sha256": "7938e15939c7bd78881679311fea0dd0fb502937d78608a9c8d8b0e555608dac",
+    "bytes": 55006
+  },
+  {
+    "path": "expected/nested_genusbalanced_locus_ablation_summary.tsv",
+    "sha256": "a83f7f4dafe3d45e76b1bfa233d0e5d59fe1c586dae4432b0ffd91e7b1407f4e",
+    "bytes": 932
+  },
+  {
+    "path": "expected/nested_genusbalanced_original_HMT_predictions.tsv",
+    "sha256": "03759a729afa4a448cab4af1fda262a49c444ec124b18615bfa6e172c07e4856",
+    "bytes": 3425
+  },
+  {
+    "path": "expected/nested_genusbalanced_original_feature_selection_stability.tsv",
+    "sha256": "a1cdac777f90b9fe3ba73ff56778221a3c9bb64aeafef8c7d9d062acbb10ff5c",
+    "bytes": 2178
+  },
+  {
+    "path": "expected/nested_genusbalanced_original_fold_results.tsv",
+    "sha256": "48f19baa7631bee31118827eeb48231d485b90bd7e83ec89b141f6d3fa5157be",
+    "bytes": 647
+  },
+  {
+    "path": "expected/nested_genusbalanced_original_selected_features_by_fold.tsv",
+    "sha256": "ef9914ac6d6e0887ac0d2b6b30326944788e74d303bfc6493be3bba36ff623c7",
+    "bytes": 11580
+  },
+  {
+    "path": "expected/nested_genusbalanced_sourcebalanced_HMT_predictions.tsv",
+    "sha256": "d6ec154d0ef9bed1961980fbd5773cedc1fa06901ed104afe959fc90c8bfc088",
+    "bytes": 3424
+  },
+  {
+    "path": "expected/nested_genusbalanced_sourcebalanced_feature_selection_stability.tsv",
+    "sha256": "d1198d3bce27187f257f82dc3dd91c30a4dd4e3b6d769c7e65d92505947f199d",
+    "bytes": 1884
+  },
+  {
+    "path": "expected/nested_genusbalanced_sourcebalanced_fold_results.tsv",
+    "sha256": "a2403c48431c01edd47c585fb53ae0d09c141e3c284dc2b82073455025d70108",
+    "bytes": 657
+  },
+  {
+    "path": "expected/nested_genusbalanced_sourcebalanced_selected_features_by_fold.tsv",
+    "sha256": "25b494e5af9cfec311fa4200db5121659ef11199708ea9b6efe2f469668b7ffa",
+    "bytes": 9512
+  },
+  {
+    "path": "expected/predictive_macroAUC_genus_bootstrap95.tsv",
+    "sha256": "13313e5087543f4d82714382d17582c300a2b84a077ead82fe2b16a276d2f87b",
+    "bytes": 1063
+  },
+  {
+    "path": "figures/Figure2/Figure2_14focal_raw_adjusted_by_genus.tsv",
+    "sha256": "bc61a9ed29d23319d5a55f6d55ef3743f5239d578bbb7e90a45819050e93c72d",
+    "bytes": 4283
+  },
+  {
+    "path": "figures/Figure2/Figure2_41atlas_covariate_adjusted_complete_effects.tsv",
+    "sha256": "507c279e4d2e6ea35755414b4912298bae70ec38b4405453dfd5509d933943df",
+    "bytes": 7786
+  },
+  {
+    "path": "figures/Figure2/Figure2_41atlas_original_complete_effects.tsv",
+    "sha256": "7cee33f61c026d701ef5ae63a5c685e22fd9363d39dda394a236ad93c2a81798",
+    "bytes": 6543
+  },
+  {
+    "path": "figures/Figure2/Figure2_A_pipeline_counts.tsv",
+    "sha256": "b118b7d671f31f5bc15f0fa4a95c72b97f612a3c41283fa3dff268af905a1f99",
+    "bytes": 205
+  },
+  {
+    "path": "figures/Figure2/Figure2_B_14focal_statistics.tsv",
+    "sha256": "07d42ee608f05ae535d16f1c1823bbe411de149f031df63375e076ac970abddd",
+    "bytes": 5319
+  },
+  {
+    "path": "figures/Figure2/Figure2_C_41atlas_genus_effects.tsv",
+    "sha256": "d8d84754a7c37d9b2ecc1cf844c36a77082401b15d93003615f09c23b997b48c",
+    "bytes": 6542
+  },
+  {
+    "path": "figures/Figure2/Figure2_HMT_genus_order.tsv",
+    "sha256": "1c3e45d21ec86d1c804813b029a080d586af92315d75adf167f5f48fb6fb6db0",
+    "bytes": 414
+  },
+  {
+    "path": "figures/Figure2/Figure2_caption.txt",
+    "sha256": "4d351b93439d94e8fd990ae1faed6904cd8eadd3a3118ed74fe99acb4c935333",
+    "bytes": 2040
+  },
+  {
+    "path": "figures/Figure2/Figure2_plotting_data.json",
+    "sha256": "282c43498858bba128f378fffc5e13ea920957854fc6d905835ab198b2dff649",
+    "bytes": 56963
+  },
+  {
+    "path": "figures/Figure2/README.md",
+    "sha256": "d9c8f8fba6b6a827023e8e4f965285f939e3ac199325ebf4933e18eaf42be329",
+    "bytes": 352
+  },
+  {
+    "path": "figures/Figure2/build_figure2.py",
+    "sha256": "25c7d739ffbfd29494c46ddec12656de583ff504741c0d1ad26f97dd040c314b",
+    "bytes": 16886
+  },
+  {
+    "path": "neighborhoods/candidate_coordinates.tsv.gz",
+    "sha256": "2e927bc31045b7d6b559ab9d194a17ab07c032a52dc2cdf05dc2e4e09ccdc231",
+    "bytes": 139238
+  },
+  {
+    "path": "neighborhoods/candidate_immediate_neighbors.tsv.gz",
+    "sha256": "ae65953d9b97943d05b57c64a15b1191eb7057fd4d6135420097229459f25a17",
+    "bytes": 315689
+  },
+  {
+    "path": "neighborhoods/extraction_summary.json",
+    "sha256": "45d4d8d0de1509852d84dd238599f3d1237ab542f6208941cd9667eaba5c4087",
+    "bytes": 205
+  },
+  {
+    "path": "neighborhoods/locus_genes.tsv",
+    "sha256": "80a04f9f00b1877901e9927bd323b32ed01e32f321472ffd9b8aab3adc028582",
+    "bytes": 40689
+  },
+  {
+    "path": "neighborhoods/selected_genome_CDS.tsv.gz",
+    "sha256": "a146a8f1008ef250af39b76973984a4ba8753e84daf701eb2a7f0bbdbf3aa92c",
+    "bytes": 1083198
+  },
+  {
+    "path": "neighborhoods/selected_loci.tsv",
+    "sha256": "b60e1a3ae2a5f3117a8257cd3237d41552fdbc3521eb88f6abf2c0329335d207",
+    "bytes": 9892
+  },
+  {
+    "path": "project/00_metadata/HOMD_genomic_metadata.tsv",
+    "sha256": "aac732609841f8ef9f0a024e29bf55890a9022baa7e9512c31350147ae521402",
+    "bytes": 5455759
+  },
+  {
+    "path": "project/00_metadata/HOMD_taxon_table.tsv",
+    "sha256": "f75764ba1a8cc72ecee4758a63bc4cbad0fbf75d07562d1cdc337802975fbd7a",
+    "bytes": 359984
+  },
+  {
+    "path": "project/00_metadata/SHA256SUMS.txt",
+    "sha256": "741187f6f9b6f26518f913e5ab83105f3126d0292b05e54ab1469d8189133edb",
+    "bytes": 907
+  },
+  {
+    "path": "project/00_metadata/abundance_Dewhirst.tsv",
+    "sha256": "a9d69fd5a52661affd2417c9fa8e910d9d619536856aafbe57d3033a4d0638ea",
+    "bytes": 247146
+  },
+  {
+    "path": "project/00_metadata/abundance_Eren_V1V3.tsv",
+    "sha256": "2558bf6fa3bd50ec2ae6d1e5887b5c856bc84ff366bd7fe7d9c972b607ec36f9",
+    "bytes": 109893
+  },
+  {
+    "path": "project/00_metadata/abundance_Eren_V3V5.tsv",
+    "sha256": "9ce4d50dfd93acce5745abe75e489aa048e32e88aab7c04870f0dfd036534cb0",
+    "bytes": 121275
+  },
+  {
+    "path": "project/00_metadata/abundance_HMP_MetaPhlan.tsv",
+    "sha256": "3e7b9b5c0e78104ac49e7d16926909b9c6a62a3ca4b6aea5de6355b7dc526c5d",
+    "bytes": 210936
+  },
+  {
+    "path": "project/00_metadata/abundance_HMP_RefSeq_V1V3.tsv",
+    "sha256": "cb4f4c240d1c89e3b8663851f893e8be87bbea432a7fe1cf48154bb2c6a8d935",
+    "bytes": 278687
+  },
+  {
+    "path": "project/00_metadata/abundance_HMP_RefSeq_V3V5.tsv",
+    "sha256": "81438ae09ddf5ce3efbbe153284cf4a4e2e29dc9fb4121d781f49882a364e75f",
+    "bytes": 244435
+  },
+  {
+    "path": "project/study13/01_genome_manifests/EXPANDED_GENOME_MANIFEST.tsv",
+    "sha256": "2935eae9b36a9ac99c13c51f56f5a89942781a2b4f9bac5d053a53c8276f0428",
+    "bytes": 100786
+  },
+  {
+    "path": "project/study13/01_genome_manifests/EXPANDED_HMT_MANIFEST.tsv",
+    "sha256": "0014911e0db679ed2de28e0c6ed8e37cbf6068e8c4808b192653dbb75e63b09f",
+    "bytes": 3569
+  },
+  {
+    "path": "project/study13/08_validation/confound_audit/ecology_source_family_pseudocount_sensitivity.tsv",
+    "sha256": "92fec64b054f86d0f7adc2080fbb4c6ebf807db89896feab510bb0607f102e42",
+    "bytes": 14962
+  },
+  {
+    "path": "project/study13/08_validation/confound_audit/hmt_covariates_and_predictions.tsv",
+    "sha256": "47988ed28d43461c5f62716a7786458faa3738603a7f8e6442d16981620c0c1e",
+    "bytes": 16312
+  },
+  {
+    "path": "project/study13/handoff/X_primary_transferable_DEDUP.tsv",
+    "sha256": "0cbb43405cab1dacd9f5f65c92342221c4d460cb73555cb988415fdb56afab70",
+    "bytes": 3770231
+  },
+  {
+    "path": "project/study13/handoff/Y_ecology.tsv",
+    "sha256": "e7c3fa65a3db17beab6c19c05a785aa266bd3bd8c997985ad5a1b323a182faf1",
+    "bytes": 1620
+  },
+  {
+    "path": "project/study13/handoff/Z_lineage.tsv",
+    "sha256": "61713f1fa3cc292ef8eea96080bcd2e904fd0bbb3c74e8fe9704611eda1690ec",
+    "bytes": 1409
+  },
+  {
+    "path": "project/study13/handoff/feature_equivalence_groups.tsv",
+    "sha256": "216af9bf60b593bb09985ec5741b9348935955115ddd1761a2c91b108c6885c9",
+    "bytes": 676652
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "ecology_max_difference": 8.881784197001252e-16,
+  "prediction_max_difference": 8.881784197001252e-16,
+  "supplementary_coordinate_fields_exact": true,
+  "heatmap_max_difference": 1.1102230246251565e-16,
+  "candidate_distributions_max_difference": 1.1102230246251565e-16,
+  "native_R_input_checks": {
+    "passed": true,
+    "n_checks": 10,
+    "maximum_prediction_difference": 4.4409e-16,
+    "numeric_tolerance": 1e-12,
+    "checks": {
+      "cohort": true,
+      "full_precision_ecology": true,
+      "exploratory_statistics": true,
+      "full_precision_predictions": true,
+      "prediction_auc": true,
+      "supplement_counts": true,
+      "coordinate_lengths": true,
+      "focal_orientation": true,
+      "main_coordinate_lengths": true,
+      "main_reference_loci": true
+    }
+  },
+  "tested_runtime": {
+    "R": "4.2.0",
+    "platform": "x86_64-pc-linux-gnu",
+    "packages": {
+      "ggplot2": "3.5.1",
+      "patchwork": "1.2.0",
+      "jsonlite": "1.8.8",
+      "ape": "5.8",
+      "svglite": "2.2.2",
+      "ragg": "1.3.2"
+    }
+  },
+  "rendered_from_relocated_project_with_spaces": true,
+  "source_interface_test_passed": true,
+  "export_round_trip_checks_passed": true,
+  "SVG_text_editable": true,
+  "SVG_embedded_images": 0,
+  "PNG_previews": "Rasterized from native R PDFs; R scripts also export PNG directly with ragg",
+  "renv_locked_packages": 39,
+  "renv_lockfile_parsed": true
+}

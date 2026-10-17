@@ -1,0 +1,53 @@
+feature	annotation	Genus	effect	offset	Phylum
+PFAM:PF01638	HxlR	Actinomyces	0.5	0.02	Actinomycetota
+PFAM:PF01638	HxlR	Campylobacter	0	-0.10000000000000001	Campylobacterota
+PFAM:PF01638	HxlR	Fusobacterium	0.54662699999999997	0.040000000000000001	Fusobacteriota
+PFAM:PF01638	HxlR	Gemella	0.0625	-0.080000000000000002	Bacillota
+PFAM:PF01638	HxlR	Leptotrichia	0.3333333	0.059999999999999998	Fusobacteriota
+PFAM:PF01638	HxlR	Neisseria	0.67714980000000002	-0.059999999999999998	Pseudomonadota
+PFAM:PF01638	HxlR	Porphyromonas	0.28000000000000003	0.080000000000000002	Bacteroidota
+PFAM:PF01638	HxlR	Prevotella	-0.17842820000000001	-0.040000000000000001	Bacteroidota
+PFAM:PF01638	HxlR	Rothia	0.66736839999999997	0.10000000000000001	Actinomycetota
+PFAM:PF01638	HxlR	Segatella	0.19047620000000001	-0.02	Bacteroidota
+PFAM:PF01638	HxlR	Selenomonas	0.3333333	0.12	Bacillota
+PFAM:PF01638	HxlR	Streptococcus	0.35333330000000002	0	Bacillota
+PFAM:PF01638	HxlR	Veillonella	-0.0039811999999999998	-0.12	Bacillota
+PFAM:PF04072	LCM	Actinomyces	0.86574070000000003	0.02	Actinomycetota
+PFAM:PF04072	LCM	Campylobacter	0.5	-0.10000000000000001	Campylobacterota
+PFAM:PF04072	LCM	Fusobacterium	0.0911111	0.040000000000000001	Fusobacteriota
+PFAM:PF04072	LCM	Gemella	0	-0.080000000000000002	Bacillota
+PFAM:PF04072	LCM	Leptotrichia	0.1666667	0.059999999999999998	Fusobacteriota
+PFAM:PF04072	LCM	Neisseria	0.78000000000000003	-0.059999999999999998	Pseudomonadota
+PFAM:PF04072	LCM	Porphyromonas	-0.21739130000000001	0.080000000000000002	Bacteroidota
+PFAM:PF04072	LCM	Prevotella	0.78513010000000005	-0.040000000000000001	Bacteroidota
+PFAM:PF04072	LCM	Rothia	1	0.10000000000000001	Actinomycetota
+PFAM:PF04072	LCM	Segatella	0.88888889999999998	-0.02	Bacteroidota
+PFAM:PF04072	LCM	Selenomonas	0.85714290000000004	0.12	Bacillota
+PFAM:PF04072	LCM	Streptococcus	0	0	Bacillota
+PFAM:PF04072	LCM	Veillonella	0.9183673	-0.12	Bacillota
+PFAM:PF13577	SnoaL_4	Actinomyces	0.025641000000000001	0.02	Actinomycetota
+PFAM:PF13577	SnoaL_4	Campylobacter	0.1666667	-0.10000000000000001	Campylobacterota
+PFAM:PF13577	SnoaL_4	Fusobacterium	0.057857100000000002	0.040000000000000001	Fusobacteriota
+PFAM:PF13577	SnoaL_4	Gemella	0	-0.080000000000000002	Bacillota
+PFAM:PF13577	SnoaL_4	Leptotrichia	0.5	0.059999999999999998	Fusobacteriota
+PFAM:PF13577	SnoaL_4	Neisseria	0.55159420000000003	-0.059999999999999998	Pseudomonadota
+PFAM:PF13577	SnoaL_4	Porphyromonas	0	0.080000000000000002	Bacteroidota
+PFAM:PF13577	SnoaL_4	Prevotella	-0.0054348	-0.040000000000000001	Bacteroidota
+PFAM:PF13577	SnoaL_4	Rothia	0	0.10000000000000001	Actinomycetota
+PFAM:PF13577	SnoaL_4	Segatella	0.28571429999999998	-0.02	Bacteroidota
+PFAM:PF13577	SnoaL_4	Selenomonas	1	0.12	Bacillota
+PFAM:PF13577	SnoaL_4	Streptococcus	0.095000000000000001	0	Bacillota
+PFAM:PF13577	SnoaL_4	Veillonella	0	-0.12	Bacillota
+COG:COG1216	Glycosyltransferase, GT2 family	Actinomyces	0.125	0.02	Actinomycetota
+COG:COG1216	Glycosyltransferase, GT2 family	Campylobacter	0	-0.10000000000000001	Campylobacterota
+COG:COG1216	Glycosyltransferase, GT2 family	Fusobacterium	-0.14056640000000001	0.040000000000000001	Fusobacteriota
+COG:COG1216	Glycosyltransferase, GT2 family	Gemella	-0.0625	-0.080000000000000002	Bacillota
+COG:COG1216	Glycosyltransferase, GT2 family	Leptotrichia	-0.83333330000000005	0.059999999999999998	Fusobacteriota
+COG:COG1216	Glycosyltransferase, GT2 family	Neisseria	0	-0.059999999999999998	Pseudomonadota
+COG:COG1216	Glycosyltransferase, GT2 family	Porphyromonas	0.086956500000000006	0.080000000000000002	Bacteroidota
+COG:COG1216	Glycosyltransferase, GT2 family	Prevotella	-0.24023220000000001	-0.040000000000000001	Bacteroidota
+COG:COG1216	Glycosyltransferase, GT2 family	Rothia	0	0.10000000000000001	Actinomycetota
+COG:COG1216	Glycosyltransferase, GT2 family	Segatella	-0.22222220000000001	-0.02	Bacteroidota
+COG:COG1216	Glycosyltransferase, GT2 family	Selenomonas	-0.3333333	0.12	Bacillota
+COG:COG1216	Glycosyltransferase, GT2 family	Streptococcus	-0.25333329999999998	0	Bacillota
+COG:COG1216	Glycosyltransferase, GT2 family	Veillonella	-0.11216760000000001	-0.12	Bacillota

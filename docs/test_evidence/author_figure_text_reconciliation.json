@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-17",
+  "figures": [
+    {
+      "figure": "Figure1.pdf",
+      "retained_text_matches": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "figure": "Figure2.pdf",
+      "retained_text_matches": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "figure": "Figure3.pdf",
+      "retained_text_matches": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "figure": "Figure4.pdf",
+      "retained_text_matches": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "figure": "Figure5.pdf",
+      "retained_text_matches": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "figure": "Supplementary_candidate_domain_neighborhoods.pdf",
+      "retained_text_matches": true,
+      "missing": [],
+      "extra": []
+    }
+  ],
+  "source_tables": [
+    {
+      "file": "Figure3_domain_breadth.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure3_selected_sequence_clusters.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure5_genus_AUCs.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Supplementary_gene_coordinates.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure5_model_performance.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure2_heatmap_effects.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure1_plotted_HMTs.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Supplementary_selected_loci.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure4_linkage_distances.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure2_focal_annotations.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure5_heldout_predictions.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure4_cluster_pair_types.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure2_candidate_genus_effects.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure3_domain_coannotations.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure3_omnibus_P_values.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure4_reference_loci.tsv",
+      "unchanged": true
+    },
+    {
+      "file": "Figure4_normalised_gene_coordinates.tsv",
+      "unchanged": true
+    }
+  ],
+  "R_input_checks": {
+    "passed": true,
+    "n_checks": 10,
+    "maximum_prediction_difference": 4.4409e-16,
+    "numeric_tolerance": 1e-12,
+    "checks": {
+      "cohort": true,
+      "full_precision_ecology": true,
+      "exploratory_statistics": true,
+      "full_precision_predictions": true,
+      "prediction_auc": true,
+      "supplement_counts": true,
+      "coordinate_lengths": true,
+      "focal_orientation": true,
+      "main_coordinate_lengths": true,
+      "main_reference_loci": true
+    }
+  },
+  "R_environment": {
+    "R": "4.2.0",
+    "platform": "x86_64-pc-linux-gnu",
+    "packages": {
+      "ggplot2": "3.5.1",
+      "patchwork": "1.2.0",
+      "jsonlite": "1.8.8",
+      "ape": "5.8",
+      "svglite": "2.2.2",
+      "ragg": "1.3.2"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+from pathlib import Path
+import pandas as pd, collections, json
+B=Path('__PROJECT_ROOT__/study13')
+O=B/'17_SnoaL2_independent_targets_20261016';O.mkdir(exist_ok=True)
+d=pd.read_csv(B/'10_additional_analyses_20261012/crossgenus_candidate_Pfam_genomic_coordinates.tsv',sep='\t')
+meta=pd.read_csv(B/'01_genome_manifests/EXPANDED_GENOME_MANIFEST.tsv',sep='\t')
+s=d[d.Pfam=='PF12680'].drop_duplicates(['GCA','protein_id']).copy()
+s['architecture']=s.domains_on_protein.map(lambda v:'PF07366+PF12680' if 'PF07366' in str(v) else ('PF12680+PF13577' if 'PF13577' in str(v) else 'PF12680_only'))
+pairs=pd.read_csv(B/'13_HxlR_broad_and_cassette_20261014/HxlR_SnoaL2_all_gene_pairs_3kb.tsv',sep='\t')
+s['linked_HxlR_3kb']=s.protein_id.isin(pairs.SnoaL2_protein)
+s=s.merge(meta[['GCA','Ecology','Ecology_tier']],on='GCA',how='left',validate='many_to_one')
+s.to_csv(O/'SnoaL2_all524_domain_architecture_linkage.tsv',sep='\t',index=False)
+hmt=meta[['HMT','Genus','Species','Ecology']].drop_duplicates()
+flags=s.groupby(['HMT','architecture']).protein_id.size().unstack(fill_value=0)
+flags=flags.reindex(columns=['PF12680_only','PF07366+PF12680','PF12680+PF13577'],fill_value=0)
+flink=s.groupby('HMT').linked_HxlR_3kb.any()
+result=hmt.merge(flags,left_on='HMT',right_index=True,how='left').merge(flink.rename('linked_HxlR_3kb'),left_on='HMT',right_index=True,how='left')
+for k in ['PF12680_only','PF07366+PF12680','PF12680+PF13577']:result[k]=result[k].fillna(0).astype(int)
+result['linked_HxlR_3kb']=result.linked_HxlR_3kb.fillna(False).astype(bool)
+result.to_csv(O/'SnoaL2_47HMT_presence_by_architecture.tsv',sep='\t',index=False)
+g=result.groupby('Ecology').agg(n_HMT=('HMT','size'),with_PF12680_only=('PF12680_only',lambda z:int((z>0).sum())),with_dual_SnoaL=('PF07366+PF12680',lambda z:int((z>0).sum())),with_HxlR_linked=('linked_HxlR_3kb','sum')).reset_index()
+g.to_csv(O/'SnoaL2_47HMT_architecture_ecology_summary.tsv',sep='\t',index=False)
+# linked status per architecture = crucial because old 67-genome count ignored duplicate loci
+print('ARCHITECTURE\n'+s.groupby(['architecture','linked_HxlR_3kb']).agg(n_proteins=('protein_id','size'),n_genomes=('GCA','nunique'),n_HMT=('HMT','nunique')).to_string(),flush=True)
+print('HMT_ECOLOGY\n'+g.to_string(index=False),flush=True)
+print('TAXA_DUAL\n'+result[result['PF07366+PF12680']>0][['HMT','Genus','Species','Ecology','PF12680_only','PF07366+PF12680','linked_HxlR_3kb']].to_string(index=False),flush=True)

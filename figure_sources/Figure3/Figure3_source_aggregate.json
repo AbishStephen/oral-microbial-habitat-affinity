@@ -1,0 +1,789 @@
+{
+  "domains": [
+    {
+      "Pfam": "PF01337",
+      "n_proteins": 150,
+      "n_genomes": 144,
+      "n_HMT": 15,
+      "n_genera": 5,
+      "n_distinct_MMseqs_X5_clusters": 12,
+      "max_genera_in_a_single_cluster": 1,
+      "n_clusters_reaching_ge3_genera": 0,
+      "fraction_proteins_single_Pfam": 1.0,
+      "n_distinct_domain_architectures": 1
+    },
+    {
+      "Pfam": "PF01638",
+      "n_proteins": 1524,
+      "n_genomes": 814,
+      "n_HMT": 44,
+      "n_genera": 12,
+      "n_distinct_MMseqs_X5_clusters": 73,
+      "max_genera_in_a_single_cluster": 5,
+      "n_clusters_reaching_ge3_genera": 3,
+      "fraction_proteins_single_Pfam": 0.860236220472441,
+      "n_distinct_domain_architectures": 23
+    },
+    {
+      "Pfam": "PF01745",
+      "n_proteins": 1243,
+      "n_genomes": 1017,
+      "n_HMT": 43,
+      "n_genera": 13,
+      "n_distinct_MMseqs_X5_clusters": 15,
+      "max_genera_in_a_single_cluster": 3,
+      "n_clusters_reaching_ge3_genera": 2,
+      "fraction_proteins_single_Pfam": 0.0,
+      "n_distinct_domain_architectures": 2
+    },
+    {
+      "Pfam": "PF04072",
+      "n_proteins": 491,
+      "n_genomes": 402,
+      "n_HMT": 26,
+      "n_genera": 11,
+      "n_distinct_MMseqs_X5_clusters": 15,
+      "max_genera_in_a_single_cluster": 4,
+      "n_clusters_reaching_ge3_genera": 1,
+      "fraction_proteins_single_Pfam": 1.0,
+      "n_distinct_domain_architectures": 1
+    },
+    {
+      "Pfam": "PF07366",
+      "n_proteins": 267,
+      "n_genomes": 251,
+      "n_HMT": 22,
+      "n_genera": 9,
+      "n_distinct_MMseqs_X5_clusters": 17,
+      "max_genera_in_a_single_cluster": 3,
+      "n_clusters_reaching_ge3_genera": 1,
+      "fraction_proteins_single_Pfam": 0.0074906367041198,
+      "n_distinct_domain_architectures": 3
+    },
+    {
+      "Pfam": "PF10604",
+      "n_proteins": 139,
+      "n_genomes": 131,
+      "n_HMT": 12,
+      "n_genera": 6,
+      "n_distinct_MMseqs_X5_clusters": 13,
+      "max_genera_in_a_single_cluster": 1,
+      "n_clusters_reaching_ge3_genera": 0,
+      "fraction_proteins_single_Pfam": 0.3741007194244604,
+      "n_distinct_domain_architectures": 5
+    },
+    {
+      "Pfam": "PF12680",
+      "n_proteins": 524,
+      "n_genomes": 376,
+      "n_HMT": 29,
+      "n_genera": 10,
+      "n_distinct_MMseqs_X5_clusters": 34,
+      "max_genera_in_a_single_cluster": 3,
+      "n_clusters_reaching_ge3_genera": 2,
+      "fraction_proteins_single_Pfam": 0.3969465648854962,
+      "n_distinct_domain_architectures": 12
+    },
+    {
+      "Pfam": "PF13413",
+      "n_proteins": 650,
+      "n_genomes": 535,
+      "n_HMT": 24,
+      "n_genera": 9,
+      "n_distinct_MMseqs_X5_clusters": 23,
+      "max_genera_in_a_single_cluster": 2,
+      "n_clusters_reaching_ge3_genera": 0,
+      "fraction_proteins_single_Pfam": 0.3538461538461538,
+      "n_distinct_domain_architectures": 15
+    },
+    {
+      "Pfam": "PF13577",
+      "n_proteins": 57,
+      "n_genomes": 56,
+      "n_HMT": 14,
+      "n_genera": 9,
+      "n_distinct_MMseqs_X5_clusters": 14,
+      "max_genera_in_a_single_cluster": 2,
+      "n_clusters_reaching_ge3_genera": 0,
+      "fraction_proteins_single_Pfam": 0.912280701754386,
+      "n_distinct_domain_architectures": 2
+    },
+    {
+      "Pfam": "PF13676",
+      "n_proteins": 273,
+      "n_genomes": 238,
+      "n_HMT": 32,
+      "n_genera": 11,
+      "n_distinct_MMseqs_X5_clusters": 69,
+      "max_genera_in_a_single_cluster": 2,
+      "n_clusters_reaching_ge3_genera": 0,
+      "fraction_proteins_single_Pfam": 0.326007326007326,
+      "n_distinct_domain_architectures": 24
+    },
+    {
+      "Pfam": "PF14470",
+      "n_proteins": 314,
+      "n_genomes": 314,
+      "n_HMT": 19,
+      "n_genera": 7,
+      "n_distinct_MMseqs_X5_clusters": 6,
+      "max_genera_in_a_single_cluster": 2,
+      "n_clusters_reaching_ge3_genera": 0,
+      "fraction_proteins_single_Pfam": 0.0,
+      "n_distinct_domain_architectures": 2
+    },
+    {
+      "Pfam": "PF18075",
+      "n_proteins": 971,
+      "n_genomes": 971,
+      "n_HMT": 40,
+      "n_genera": 11,
+      "n_distinct_MMseqs_X5_clusters": 12,
+      "max_genera_in_a_single_cluster": 2,
+      "n_clusters_reaching_ge3_genera": 0,
+      "fraction_proteins_single_Pfam": 0.1390319258496395,
+      "n_distinct_domain_architectures": 2
+    },
+    {
+      "Pfam": "PF22166",
+      "n_proteins": 314,
+      "n_genomes": 312,
+      "n_HMT": 15,
+      "n_genera": 7,
+      "n_distinct_MMseqs_X5_clusters": 7,
+      "max_genera_in_a_single_cluster": 4,
+      "n_clusters_reaching_ge3_genera": 1,
+      "fraction_proteins_single_Pfam": 0.0,
+      "n_distinct_domain_architectures": 11
+    }
+  ],
+  "architectures": {
+    "PF01638": [
+      {
+        "architecture": "PF01638",
+        "count": 1311,
+        "n_domains": 1
+      },
+      {
+        "architecture": "PF01047;PF01638;PF04182;PF12802;PF13412;PF13463",
+        "count": 87,
+        "n_domains": 6
+      },
+      {
+        "architecture": "PF01047;PF01638",
+        "count": 20,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF01047;PF01638;PF01978;PF12802;PF13412;PF13463",
+        "count": 12,
+        "n_domains": 6
+      },
+      {
+        "architecture": "PF01638;PF13463",
+        "count": 12,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF01638;PF12802",
+        "count": 11,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF01022;PF01047;PF01638",
+        "count": 8,
+        "n_domains": 3
+      }
+    ],
+    "PF04072": [
+      {
+        "architecture": "PF04072",
+        "count": 491,
+        "n_domains": 1
+      }
+    ],
+    "PF13676": [
+      {
+        "architecture": "PF13676",
+        "count": 89,
+        "n_domains": 1
+      },
+      {
+        "architecture": "PF01582;PF08937;PF13676",
+        "count": 65,
+        "n_domains": 3
+      },
+      {
+        "architecture": "PF01582;PF13676",
+        "count": 23,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF08357;PF13676",
+        "count": 23,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF08937;PF13676",
+        "count": 17,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF00560;PF08477;PF12799;PF13516;PF13676;PF13855;PF14580",
+        "count": 7,
+        "n_domains": 7
+      },
+      {
+        "architecture": "PF08477;PF13676",
+        "count": 7,
+        "n_domains": 2
+      }
+    ],
+    "PF01745": [
+      {
+        "architecture": "PF01715;PF01745",
+        "count": 1242,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF00004;PF01715;PF01745",
+        "count": 1,
+        "n_domains": 3
+      }
+    ],
+    "PF18075": [
+      {
+        "architecture": "PF02687;PF18075",
+        "count": 836,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF18075",
+        "count": 135,
+        "n_domains": 1
+      }
+    ],
+    "PF22166": [
+      {
+        "architecture": "PF01047;PF12802;PF22166;PF22381",
+        "count": 102,
+        "n_domains": 4
+      },
+      {
+        "architecture": "PF01047;PF22166;PF22381",
+        "count": 62,
+        "n_domains": 3
+      },
+      {
+        "architecture": "PF01047;PF12802;PF22166",
+        "count": 40,
+        "n_domains": 3
+      },
+      {
+        "architecture": "PF01047;PF09339;PF12802;PF22166;PF22381",
+        "count": 40,
+        "n_domains": 5
+      },
+      {
+        "architecture": "PF01047;PF12802;PF13463;PF13601;PF22166",
+        "count": 25,
+        "n_domains": 5
+      },
+      {
+        "architecture": "PF01047;PF12802;PF13463;PF22166",
+        "count": 22,
+        "n_domains": 4
+      },
+      {
+        "architecture": "PF01047;PF12802;PF13412;PF13463;PF22166;PF22381",
+        "count": 11,
+        "n_domains": 6
+      }
+    ],
+    "PF13577": [
+      {
+        "architecture": "PF13577",
+        "count": 52,
+        "n_domains": 1
+      },
+      {
+        "architecture": "PF08332;PF12680;PF13474;PF13577;PF14534",
+        "count": 5,
+        "n_domains": 5
+      }
+    ],
+    "PF12680": [
+      {
+        "architecture": "PF07366;PF12680",
+        "count": 241,
+        "n_domains": 2
+      },
+      {
+        "architecture": "PF12680",
+        "count": 208,
+        "n_domains": 1
+      },
+      {
+        "architecture": "PF07366;PF12680;PF14534",
+        "count": 24,
+        "n_domains": 3
+      },
+      {
+        "architecture": "PF12680;PF13474;PF26061",
+        "count": 10,
+        "n_domains": 3
+      },
+      {
+        "architecture": "PF08332;PF12680;PF13474;PF14534",
+        "count": 9,
+        "n_domains": 4
+      },
+      {
+        "architecture": "PF03807;PF10727;PF12680",
+        "count": 8,
+        "n_domains": 3
+      },
+      {
+        "architecture": "PF12680;PF13474;PF14534",
+        "count": 7,
+        "n_domains": 3
+      }
+    ]
+  },
+  "network_top_clusters": {
+    "PF01638": {
+      "clusters": [
+        {
+          "id": "GCA_007990385.1_00101",
+          "n_proteins": 121,
+          "n_genera": 5,
+          "genera": [
+            "Actinomyces",
+            "Fusobacterium",
+            "Gemella",
+            "Leptotrichia",
+            "Neisseria"
+          ]
+        },
+        {
+          "id": "GCA0378938651_00779",
+          "n_proteins": 111,
+          "n_genera": 4,
+          "genera": [
+            "Fusobacterium",
+            "Leptotrichia",
+            "Selenomonas",
+            "Veillonella"
+          ]
+        },
+        {
+          "id": "GCA_937925415.1_01319",
+          "n_proteins": 108,
+          "n_genera": 3,
+          "genera": [
+            "Fusobacterium",
+            "Gemella",
+            "Veillonella"
+          ]
+        },
+        {
+          "id": "GCA_002753855.1_00772",
+          "n_proteins": 117,
+          "n_genera": 2,
+          "genera": [
+            "Prevotella",
+            "Segatella"
+          ]
+        },
+        {
+          "id": "GCA9380307751_00100",
+          "n_proteins": 104,
+          "n_genera": 2,
+          "genera": [
+            "Fusobacterium",
+            "Streptococcus"
+          ]
+        },
+        {
+          "id": "GCA0378974851_01085",
+          "n_proteins": 91,
+          "n_genera": 2,
+          "genera": [
+            "Fusobacterium",
+            "Leptotrichia"
+          ]
+        },
+        {
+          "id": "GCA9462213551_01451",
+          "n_proteins": 53,
+          "n_genera": 2,
+          "genera": [
+            "Actinomyces",
+            "Rothia"
+          ]
+        },
+        {
+          "id": "GCA_031296715.1_02340",
+          "n_proteins": 27,
+          "n_genera": 2,
+          "genera": [
+            "Actinomyces",
+            "Neisseria"
+          ]
+        },
+        {
+          "id": "GCA0028925951_01326",
+          "n_proteins": 22,
+          "n_genera": 2,
+          "genera": [
+            "Porphyromonas",
+            "Prevotella"
+          ]
+        }
+      ],
+      "total_n_proteins": 1524,
+      "total_n_clusters": 73
+    },
+    "PF04072": {
+      "clusters": [
+        {
+          "id": "GCA_938041155.1_01955",
+          "n_proteins": 195,
+          "n_genera": 4,
+          "genera": [
+            "Fusobacterium",
+            "Leptotrichia",
+            "Selenomonas",
+            "Veillonella"
+          ]
+        },
+        {
+          "id": "GCA_938028575.1_00738",
+          "n_proteins": 100,
+          "n_genera": 2,
+          "genera": [
+            "Prevotella",
+            "Segatella"
+          ]
+        },
+        {
+          "id": "GCA0378974251_01142",
+          "n_proteins": 66,
+          "n_genera": 1,
+          "genera": [
+            "Fusobacterium"
+          ]
+        },
+        {
+          "id": "GCA9462213551_02172",
+          "n_proteins": 46,
+          "n_genera": 1,
+          "genera": [
+            "Actinomyces"
+          ]
+        },
+        {
+          "id": "GCA9379272451_00678",
+          "n_proteins": 19,
+          "n_genera": 1,
+          "genera": [
+            "Rothia"
+          ]
+        },
+        {
+          "id": "GCA_938046305.1_01198",
+          "n_proteins": 18,
+          "n_genera": 1,
+          "genera": [
+            "Neisseria"
+          ]
+        },
+        {
+          "id": "GCA_937890425.1_01404",
+          "n_proteins": 16,
+          "n_genera": 1,
+          "genera": [
+            "Neisseria"
+          ]
+        },
+        {
+          "id": "GCA9379272451_00416",
+          "n_proteins": 13,
+          "n_genera": 1,
+          "genera": [
+            "Rothia"
+          ]
+        },
+        {
+          "id": "GCA_900699785.1_01344",
+          "n_proteins": 6,
+          "n_genera": 1,
+          "genera": [
+            "Campylobacter"
+          ]
+        }
+      ],
+      "total_n_proteins": 491,
+      "total_n_clusters": 15
+    },
+    "PF13676": {
+      "clusters": [
+        {
+          "id": "GCA_937925415.1_00972",
+          "n_proteins": 6,
+          "n_genera": 2,
+          "genera": [
+            "Gemella",
+            "Streptococcus"
+          ]
+        },
+        {
+          "id": "GCA_905372815.1_01414",
+          "n_proteins": 5,
+          "n_genera": 2,
+          "genera": [
+            "Prevotella",
+            "Segatella"
+          ]
+        },
+        {
+          "id": "GCA0025293551_00374",
+          "n_proteins": 5,
+          "n_genera": 2,
+          "genera": [
+            "Porphyromonas",
+            "Prevotella"
+          ]
+        },
+        {
+          "id": "GCA_905371775.1_01077",
+          "n_proteins": 4,
+          "n_genera": 2,
+          "genera": [
+            "Gemella",
+            "Veillonella"
+          ]
+        },
+        {
+          "id": "GCA_019375795.1_00345",
+          "n_proteins": 2,
+          "n_genera": 2,
+          "genera": [
+            "Prevotella",
+            "Segatella"
+          ]
+        },
+        {
+          "id": "GCA0152628351_00463",
+          "n_proteins": 2,
+          "n_genera": 2,
+          "genera": [
+            "Porphyromonas",
+            "Prevotella"
+          ]
+        },
+        {
+          "id": "GCA_007990405.1_00053",
+          "n_proteins": 2,
+          "n_genera": 2,
+          "genera": [
+            "Leptotrichia",
+            "Streptococcus"
+          ]
+        },
+        {
+          "id": "GCA0378890251_00722",
+          "n_proteins": 59,
+          "n_genera": 1,
+          "genera": [
+            "Fusobacterium"
+          ]
+        },
+        {
+          "id": "GCA0027540551_00817",
+          "n_proteins": 33,
+          "n_genera": 1,
+          "genera": [
+            "Porphyromonas"
+          ]
+        }
+      ],
+      "total_n_proteins": 273,
+      "total_n_clusters": 69
+    },
+    "PF22166": {
+      "clusters": [
+        {
+          "id": "GCA0311907751_01658",
+          "n_proteins": 111,
+          "n_genera": 4,
+          "genera": [
+            "Fusobacterium",
+            "Gemella",
+            "Leptotrichia",
+            "Veillonella"
+          ]
+        },
+        {
+          "id": "GCA_003944405.1_00675",
+          "n_proteins": 98,
+          "n_genera": 1,
+          "genera": [
+            "Streptococcus"
+          ]
+        },
+        {
+          "id": "GCA9462213551_00834",
+          "n_proteins": 48,
+          "n_genera": 1,
+          "genera": [
+            "Actinomyces"
+          ]
+        },
+        {
+          "id": "GCA9590231351_00788",
+          "n_proteins": 29,
+          "n_genera": 1,
+          "genera": [
+            "Veillonella"
+          ]
+        },
+        {
+          "id": "GCA0190475051_01257",
+          "n_proteins": 18,
+          "n_genera": 1,
+          "genera": [
+            "Streptococcus"
+          ]
+        },
+        {
+          "id": "GCA9379272451_00428",
+          "n_proteins": 7,
+          "n_genera": 1,
+          "genera": [
+            "Rothia"
+          ]
+        },
+        {
+          "id": "GCA9462213551_00816",
+          "n_proteins": 3,
+          "n_genera": 1,
+          "genera": [
+            "Actinomyces"
+          ]
+        }
+      ],
+      "total_n_proteins": 314,
+      "total_n_clusters": 7
+    }
+  },
+  "omnibus": [
+    {
+      "layer": "PFAM",
+      "n_features": 4850,
+      "global_direction_similarity": -0.0086273794656777,
+      "perm_p": 0.7832433513297341,
+      "null_95pct": 0.0159942493417404
+    },
+    {
+      "layer": "COG",
+      "n_features": 1575,
+      "global_direction_similarity": -0.0172894376510722,
+      "perm_p": 0.9424115176964608,
+      "null_95pct": 0.0152156885615311
+    },
+    {
+      "layer": "EC",
+      "n_features": 246,
+      "global_direction_similarity": -0.0180473310769525,
+      "perm_p": 0.8732253549290142,
+      "null_95pct": 0.0348222253517779
+    },
+    {
+      "layer": "KMOD",
+      "n_features": 251,
+      "global_direction_similarity": -0.0183782698699934,
+      "perm_p": 0.8394321135772845,
+      "null_95pct": 0.0306914522437242
+    },
+    {
+      "layer": "KPATH",
+      "n_features": 126,
+      "global_direction_similarity": -0.0054684400039039,
+      "perm_p": 0.5160967806438712,
+      "null_95pct": 0.0487145022517248
+    },
+    {
+      "layer": "X5",
+      "n_features": 5745,
+      "global_direction_similarity": -0.0098953279305474,
+      "perm_p": 0.829634073185363,
+      "null_95pct": 0.0157568110699628
+    }
+  ],
+  "linkage": [
+    {
+      "n_genomes": 24,
+      "n_genera": 1,
+      "genera": "Streptococcus"
+    },
+    {
+      "n_genomes": 16,
+      "n_genera": 1,
+      "genera": "Actinomyces"
+    },
+    {
+      "n_genomes": 10,
+      "n_genera": 2,
+      "genera": "Porphyromonas;Prevotella"
+    },
+    {
+      "n_genomes": 9,
+      "n_genera": 1,
+      "genera": "Porphyromonas"
+    },
+    {
+      "n_genomes": 4,
+      "n_genera": 1,
+      "genera": "Prevotella"
+    },
+    {
+      "n_genomes": 2,
+      "n_genera": 1,
+      "genera": "Streptococcus"
+    },
+    {
+      "n_genomes": 1,
+      "n_genera": 1,
+      "genera": "Neisseria"
+    },
+    {
+      "n_genomes": 1,
+      "n_genera": 1,
+      "genera": "Prevotella"
+    }
+  ],
+  "genus_names": [
+    "Actinomyces",
+    "Campylobacter",
+    "Fusobacterium",
+    "Gemella",
+    "Leptotrichia",
+    "Neisseria",
+    "Porphyromonas",
+    "Prevotella",
+    "Rothia",
+    "Segatella",
+    "Selenomonas",
+    "Streptococcus",
+    "Veillonella"
+  ],
+  "methods": {
+    "seq_id_threshold": 0.5,
+    "sequence_coverage": 0.8,
+    "source_script": "49_mmseqs_linclust.sh",
+    "genome_total": 1121,
+    "HMTs": 47
+  },
+  "notes": "MMseqs2 50% identity/80% coverage sequence clusters are not guaranteed true orthogroups or biochemical subfamilies."
+}

@@ -1,0 +1,471 @@
+[
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-643",
+    "gca": "GCA_000261025.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_000305335.2",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Neisseria",
+    "hmt": "HMT-598",
+    "gca": "GCA_001061435.1",
+    "bp": 2124,
+    "orientation": "same-strand"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956355.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956415.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-643",
+    "gca": "GCA_002753835.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009716995.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717225.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-644",
+    "gca": "GCA_013267515.1",
+    "bp": 137,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_031296595.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_000467995.1",
+    "bp": 140,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-622",
+    "gca": "GCA_001588735.1",
+    "bp": 150,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-411",
+    "gca": "GCA_001808725.1",
+    "bp": 148,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956505.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956585.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956635.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002204455.1",
+    "bp": 139,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002529145.1",
+    "bp": 139,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002529365.1",
+    "bp": 140,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717245.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_000271945.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_001263815.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-622",
+    "gca": "GCA_001588975.1",
+    "bp": 150,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001937475.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001937615.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956555.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002892595.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717055.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717165.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_031296715.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956485.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956575.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002754055.1",
+    "bp": 140,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-021",
+    "gca": "GCA_028308465.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_031296655.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_000007585.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-622",
+    "gca": "GCA_000017005.1",
+    "bp": 150,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-643",
+    "gca": "GCA_001548195.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002753975.1",
+    "bp": 140,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002754095.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-411",
+    "gca": "GCA_003469565.1",
+    "bp": 73,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717065.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-622",
+    "gca": "GCA_001589035.1",
+    "bp": 150,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717115.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-644",
+    "gca": "GCA_000234035.1",
+    "bp": 137,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-693",
+    "gca": "GCA_002204475.1",
+    "bp": 220,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717045.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717465.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-693",
+    "gca": "GCA_018127845.1",
+    "bp": 226,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956565.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-643",
+    "gca": "GCA_002763535.1",
+    "bp": 133,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717105.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-622",
+    "gca": "GCA_009730535.1",
+    "bp": 150,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009738225.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_001956515.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002754075.1",
+    "bp": 140,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-693",
+    "gca": "GCA_018127825.1",
+    "bp": 220,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Actinomyces",
+    "hmt": "HMT-176",
+    "gca": "GCA_023170065.1",
+    "bp": 86,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-622",
+    "gca": "GCA_001589145.1",
+    "bp": 150,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717495.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-643",
+    "gca": "GCA_002529435.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002753955.1",
+    "bp": 139,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_002073515.2",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Streptococcus",
+    "hmt": "HMT-755",
+    "gca": "GCA_009717265.1",
+    "bp": 145,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Porphyromonas",
+    "hmt": "HMT-619",
+    "gca": "GCA_002529205.1",
+    "bp": 140,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-643",
+    "gca": "GCA_001953935.1",
+    "bp": 132,
+    "orientation": "divergent"
+  },
+  {
+    "genus": "Prevotella",
+    "hmt": "HMT-291",
+    "gca": "GCA_019391855.1",
+    "bp": 220,
+    "orientation": "divergent"
+  }
+]

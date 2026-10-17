@@ -1,0 +1,534 @@
+feature	annotation	theme	Genus	effect
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Actinomyces	0.86574070000000003
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Campylobacter	0.5
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Fusobacterium	0.0911111
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Gemella	0
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Leptotrichia	0.1666667
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Neisseria	0.78000000000000003
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Porphyromonas	-0.21739130000000001
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Prevotella	0.78513010000000005
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Rothia	1
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Segatella	0.88888889999999998
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Selenomonas	0.85714290000000004
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Streptococcus	0
+PFAM:PF04072	LCM domain	Candidate / poorly characterized	Veillonella	0.9183673
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Actinomyces	1
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Campylobacter	0.25
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Fusobacterium	-0.029112599999999999
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Gemella	0.29999999999999999
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Leptotrichia	0
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Neisseria	0.85826089999999999
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Porphyromonas	0.2965217
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Prevotella	0.16851849999999999
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Rothia	0.84210529999999995
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Segatella	0.28571429999999998
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Selenomonas	0
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Streptococcus	0.70999999999999996
+PFAM:PF12680	SnoaL_2 domain	Candidate / poorly characterized	Veillonella	0
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Actinomyces	0.84722220000000004
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Campylobacter	0
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Fusobacterium	0
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Gemella	0
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Leptotrichia	0
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Neisseria	0.84999999999999998
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Porphyromonas	0.26000000000000001
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Prevotella	0.25
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Rothia	0.5789474
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Segatella	0
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Selenomonas	0
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Streptococcus	0.0083333000000000001
+PFAM:PF10604	Polyketide_cyc2 domain	Candidate / poorly characterized	Veillonella	0
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Actinomyces	0.78240739999999998
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Campylobacter	0.58333330000000005
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Fusobacterium	0.65749999999999997
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Gemella	0.29999999999999999
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Leptotrichia	-0.1666667
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Neisseria	0.083333299999999999
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Porphyromonas	0.97999999999999998
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Prevotella	0.29653780000000002
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Rothia	0.2105263
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Segatella	0
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Selenomonas	0
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Streptococcus	0.78000000000000003
+PFAM:PF08020	DUF1706	Candidate / poorly characterized	Veillonella	0
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Actinomyces	0.5245727
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Campylobacter	-0.17999999999999999
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Fusobacterium	-0.085544800000000004
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Gemella	0
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Leptotrichia	0
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Neisseria	0.91874400000000001
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Porphyromonas	1
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Prevotella	-0.015109300000000001
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Rothia	0.84210529999999995
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Segatella	0.28571429999999998
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Selenomonas	0.42857139999999999
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Streptococcus	-0.0066667000000000002
+PFAM:PF13635	DUF4143	Candidate / poorly characterized	Veillonella	0.020408200000000001
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Actinomyces	0.50605420000000001
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Campylobacter	0.029999999999999999
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Fusobacterium	0
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Gemella	-0.125
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Leptotrichia	0.3333333
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Neisseria	0.92478260000000001
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Porphyromonas	0.043478299999999998
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Prevotella	0.0185186
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Rothia	0.73684210000000006
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Segatella	0.1111111
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Selenomonas	0.42857139999999999
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Streptococcus	-0.23999999999999999
+PFAM:PF30184	DUF8612	Candidate / poorly characterized	Veillonella	-0.32005260000000002
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Actinomyces	0.5
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Campylobacter	0
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Fusobacterium	0.54662699999999997
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Gemella	0.0625
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Leptotrichia	0.3333333
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Neisseria	0.67714980000000002
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Porphyromonas	0.28000000000000003
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Prevotella	-0.17842820000000001
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Rothia	0.66736839999999997
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Segatella	0.19047620000000001
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Selenomonas	0.3333333
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Streptococcus	0.35333330000000002
+PFAM:PF01638	HxlR-like regulator	Regulation & sensing	Veillonella	-0.0039811999999999998
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Actinomyces	0.087963
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Campylobacter	0.1666667
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Fusobacterium	0.35869410000000002
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Gemella	-0.3125
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Leptotrichia	0.5
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Neisseria	-0.63478250000000003
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Porphyromonas	0.78260870000000005
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Prevotella	-0.075777600000000001
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Rothia	0.2105263
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Segatella	0
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Selenomonas	0
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Streptococcus	0.033333300000000003
+PFAM:PF02311	AraC ligand-binding	Regulation & sensing	Veillonella	0.38816089999999998
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Actinomyces	0.125
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Campylobacter	0.083333299999999999
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Fusobacterium	-0.060054099999999999
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Gemella	0.20000000000000001
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Leptotrichia	0.1666667
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Neisseria	0.56444439999999996
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Porphyromonas	1
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Prevotella	-0.29622209999999999
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Rothia	0
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Segatella	0
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Selenomonas	0.3333333
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Streptococcus	0.029999999999999999
+PFAM:PF09339	IclR-like HTH	Regulation & sensing	Veillonella	0.57622530000000005
+PFAM:PF13443	HTH_26	Regulation & sensing	Actinomyces	0.625
+PFAM:PF13443	HTH_26	Regulation & sensing	Campylobacter	0.26000000000000001
+PFAM:PF13443	HTH_26	Regulation & sensing	Fusobacterium	0.1021825
+PFAM:PF13443	HTH_26	Regulation & sensing	Gemella	-0.10000000000000001
+PFAM:PF13443	HTH_26	Regulation & sensing	Leptotrichia	-0.1666667
+PFAM:PF13443	HTH_26	Regulation & sensing	Neisseria	0.1869082
+PFAM:PF13443	HTH_26	Regulation & sensing	Porphyromonas	0.78260870000000005
+PFAM:PF13443	HTH_26	Regulation & sensing	Prevotella	0
+PFAM:PF13443	HTH_26	Regulation & sensing	Rothia	0.31368420000000002
+PFAM:PF13443	HTH_26	Regulation & sensing	Segatella	0.22222220000000001
+PFAM:PF13443	HTH_26	Regulation & sensing	Selenomonas	0.0238096
+PFAM:PF13443	HTH_26	Regulation & sensing	Streptococcus	-0
+PFAM:PF13443	HTH_26	Regulation & sensing	Veillonella	0
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Actinomyces	0
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Campylobacter	0.75
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Fusobacterium	0.30515510000000001
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Gemella	0.40000000000000002
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Leptotrichia	0
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Neisseria	0.0386957
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Porphyromonas	0.93999999999999995
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Prevotella	0
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Rothia	0
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Segatella	0
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Selenomonas	-0.1666667
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Streptococcus	-0.24666669999999999
+PFAM:PF13188	PAS_8 sensor	Regulation & sensing	Veillonella	0
+PFAM:PF00376	MerR family	Regulation & sensing	Actinomyces	0
+PFAM:PF00376	MerR family	Regulation & sensing	Campylobacter	0
+PFAM:PF00376	MerR family	Regulation & sensing	Fusobacterium	-0.076785699999999998
+PFAM:PF00376	MerR family	Regulation & sensing	Gemella	0
+PFAM:PF00376	MerR family	Regulation & sensing	Leptotrichia	-0.1666666
+PFAM:PF00376	MerR family	Regulation & sensing	Neisseria	0.39275359999999998
+PFAM:PF00376	MerR family	Regulation & sensing	Porphyromonas	1
+PFAM:PF00376	MerR family	Regulation & sensing	Prevotella	0.50185190000000002
+PFAM:PF00376	MerR family	Regulation & sensing	Rothia	0
+PFAM:PF00376	MerR family	Regulation & sensing	Segatella	0
+PFAM:PF00376	MerR family	Regulation & sensing	Selenomonas	0.69047619999999998
+PFAM:PF00376	MerR family	Regulation & sensing	Streptococcus	0.0066666
+PFAM:PF00376	MerR family	Regulation & sensing	Veillonella	-0.1752087
+PFAM:PF09374	PG-binding_3	Envelope / interface	Actinomyces	0
+PFAM:PF09374	PG-binding_3	Envelope / interface	Campylobacter	0.0166667
+PFAM:PF09374	PG-binding_3	Envelope / interface	Fusobacterium	0
+PFAM:PF09374	PG-binding_3	Envelope / interface	Gemella	0
+PFAM:PF09374	PG-binding_3	Envelope / interface	Leptotrichia	0
+PFAM:PF09374	PG-binding_3	Envelope / interface	Neisseria	0.13922699999999999
+PFAM:PF09374	PG-binding_3	Envelope / interface	Porphyromonas	1
+PFAM:PF09374	PG-binding_3	Envelope / interface	Prevotella	-0.049516900000000003
+PFAM:PF09374	PG-binding_3	Envelope / interface	Rothia	0.84210529999999995
+PFAM:PF09374	PG-binding_3	Envelope / interface	Segatella	0.14285709999999999
+PFAM:PF09374	PG-binding_3	Envelope / interface	Selenomonas	0
+PFAM:PF09374	PG-binding_3	Envelope / interface	Streptococcus	0
+PFAM:PF09374	PG-binding_3	Envelope / interface	Veillonella	0
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Actinomyces	-0.044159499999999997
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Campylobacter	0
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Fusobacterium	-0.11928569999999999
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Gemella	-0.13333339999999999
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Leptotrichia	0.5
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Neisseria	0.87222219999999995
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Porphyromonas	0.086956500000000006
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Prevotella	0.22065219999999999
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Rothia	0.040000000000000001
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Segatella	0
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Selenomonas	0
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Streptococcus	0.24666660000000001
+PFAM:PF04226	Transgly_assoc	Envelope / interface	Veillonella	0.048009499999999997
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Actinomyces	0.099359000000000003
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Campylobacter	0.58333330000000005
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Fusobacterium	-0.080714300000000003
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Gemella	0.59999999999999998
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Leptotrichia	0
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Neisseria	0.096956500000000001
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Porphyromonas	0.066956500000000002
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Prevotella	0.042546
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Rothia	0
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Segatella	0
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Selenomonas	0.1666667
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Streptococcus	0.056666599999999998
+PFAM:PF18075	FtsX extracellular	Envelope / interface	Veillonella	0.1062964
+PFAM:PF08139	LPAM_1	Envelope / interface	Actinomyces	0
+PFAM:PF08139	LPAM_1	Envelope / interface	Campylobacter	0.66666669999999995
+PFAM:PF08139	LPAM_1	Envelope / interface	Fusobacterium	0.0050000000000000001
+PFAM:PF08139	LPAM_1	Envelope / interface	Gemella	0
+PFAM:PF08139	LPAM_1	Envelope / interface	Leptotrichia	0.1666667
+PFAM:PF08139	LPAM_1	Envelope / interface	Neisseria	0.14207729999999999
+PFAM:PF08139	LPAM_1	Envelope / interface	Porphyromonas	1
+PFAM:PF08139	LPAM_1	Envelope / interface	Prevotella	-0.28557500000000002
+PFAM:PF08139	LPAM_1	Envelope / interface	Rothia	0
+PFAM:PF08139	LPAM_1	Envelope / interface	Segatella	0.57142859999999995
+PFAM:PF08139	LPAM_1	Envelope / interface	Selenomonas	0
+PFAM:PF08139	LPAM_1	Envelope / interface	Streptococcus	-0.0083333000000000001
+PFAM:PF08139	LPAM_1	Envelope / interface	Veillonella	0.020408200000000001
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Actinomyces	0.96866099999999999
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Campylobacter	0.58333330000000005
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Fusobacterium	0.79548700000000006
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Gemella	0.46250000000000002
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Leptotrichia	0.5
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Neisseria	0.051739100000000003
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Porphyromonas	0
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Prevotella	0.0163044
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Rothia	0.84210529999999995
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Segatella	0
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Selenomonas	-0.2142857
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Streptococcus	0.021666700000000001
+PFAM:PF02129	Peptidase_S15	Envelope / interface	Veillonella	0
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Actinomyces	1
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Campylobacter	0.71666669999999999
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Fusobacterium	-0.0050000000000000001
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Gemella	0
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Leptotrichia	0
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Neisseria	0
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Porphyromonas	0.043478299999999998
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Prevotella	0.28008519999999998
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Rothia	1
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Segatella	0.031746000000000003
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Selenomonas	0
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Streptococcus	-0
+PFAM:PF00903	Glyoxalase domain	Metabolism & redox	Veillonella	-0.020408200000000001
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Actinomyces	0.1217949
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Campylobacter	0
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Fusobacterium	-0.062857099999999999
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Gemella	0
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Leptotrichia	0.66666669999999995
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Neisseria	0.20000000000000001
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Porphyromonas	0.02
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Prevotella	0.040740699999999998
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Rothia	0.73684210000000006
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Segatella	0.14285709999999999
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Selenomonas	0
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Streptococcus	0.040000000000000001
+PFAM:PF12681	Glyoxalase_2	Metabolism & redox	Veillonella	0.076047500000000004
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Actinomyces	0
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Campylobacter	0.20999999999999999
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Fusobacterium	0.27761910000000001
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Gemella	0
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Leptotrichia	1
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Neisseria	0.20000000000000001
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Porphyromonas	1
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Prevotella	-0.24352489999999999
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Rothia	0
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Segatella	0.46031749999999999
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Selenomonas	0
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Streptococcus	0.0050000000000000001
+PFAM:PF12682	Flavodoxin_4	Metabolism & redox	Veillonella	0
+PFAM:PF03358	FMN reductase	Metabolism & redox	Actinomyces	0
+PFAM:PF03358	FMN reductase	Metabolism & redox	Campylobacter	-0.050000000000000003
+PFAM:PF03358	FMN reductase	Metabolism & redox	Fusobacterium	0.29563489999999998
+PFAM:PF03358	FMN reductase	Metabolism & redox	Gemella	-0.58333330000000005
+PFAM:PF03358	FMN reductase	Metabolism & redox	Leptotrichia	0
+PFAM:PF03358	FMN reductase	Metabolism & redox	Neisseria	0
+PFAM:PF03358	FMN reductase	Metabolism & redox	Porphyromonas	0.43478260000000002
+PFAM:PF03358	FMN reductase	Metabolism & redox	Prevotella	0
+PFAM:PF03358	FMN reductase	Metabolism & redox	Rothia	0.95999999999999996
+PFAM:PF03358	FMN reductase	Metabolism & redox	Segatella	0.28571429999999998
+PFAM:PF03358	FMN reductase	Metabolism & redox	Selenomonas	0.5
+PFAM:PF03358	FMN reductase	Metabolism & redox	Streptococcus	-0
+PFAM:PF03358	FMN reductase	Metabolism & redox	Veillonella	0.50066100000000002
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Actinomyces	0.96866099999999999
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Campylobacter	0
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Fusobacterium	-0.037857099999999998
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Gemella	-0.10000000000000001
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Leptotrichia	0
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Neisseria	-0.01
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Porphyromonas	1
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Prevotella	0.11455419999999999
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Rothia	-0.9473684
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Segatella	0.85714290000000004
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Selenomonas	0.83333330000000005
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Streptococcus	-0
+PFAM:PF02737	3HCDH N-terminal	Metabolism & redox	Veillonella	0.59355670000000005
+PFAM:PF04191	PEMT domain	Metabolism & redox	Actinomyces	0.48076920000000001
+PFAM:PF04191	PEMT domain	Metabolism & redox	Campylobacter	0
+PFAM:PF04191	PEMT domain	Metabolism & redox	Fusobacterium	0
+PFAM:PF04191	PEMT domain	Metabolism & redox	Gemella	0
+PFAM:PF04191	PEMT domain	Metabolism & redox	Leptotrichia	0
+PFAM:PF04191	PEMT domain	Metabolism & redox	Neisseria	0.14000000000000001
+PFAM:PF04191	PEMT domain	Metabolism & redox	Porphyromonas	1
+PFAM:PF04191	PEMT domain	Metabolism & redox	Prevotella	0.32979700000000001
+PFAM:PF04191	PEMT domain	Metabolism & redox	Rothia	0.8947368
+PFAM:PF04191	PEMT domain	Metabolism & redox	Segatella	0.85714290000000004
+PFAM:PF04191	PEMT domain	Metabolism & redox	Selenomonas	0
+PFAM:PF04191	PEMT domain	Metabolism & redox	Streptococcus	0.94499999999999995
+PFAM:PF04191	PEMT domain	Metabolism & redox	Veillonella	0
+PFAM:PF13386	DsbD_2	Metabolism & redox	Actinomyces	0.076923099999999994
+PFAM:PF13386	DsbD_2	Metabolism & redox	Campylobacter	0
+PFAM:PF13386	DsbD_2	Metabolism & redox	Fusobacterium	-0.014999999999999999
+PFAM:PF13386	DsbD_2	Metabolism & redox	Gemella	-0.025000000000000001
+PFAM:PF13386	DsbD_2	Metabolism & redox	Leptotrichia	0.3333333
+PFAM:PF13386	DsbD_2	Metabolism & redox	Neisseria	0.065217399999999995
+PFAM:PF13386	DsbD_2	Metabolism & redox	Porphyromonas	0
+PFAM:PF13386	DsbD_2	Metabolism & redox	Prevotella	-0.013922800000000001
+PFAM:PF13386	DsbD_2	Metabolism & redox	Rothia	0.78947369999999994
+PFAM:PF13386	DsbD_2	Metabolism & redox	Segatella	0
+PFAM:PF13386	DsbD_2	Metabolism & redox	Selenomonas	0.69047619999999998
+PFAM:PF13386	DsbD_2	Metabolism & redox	Streptococcus	0.49666660000000001
+PFAM:PF13386	DsbD_2	Metabolism & redox	Veillonella	0
+KMOD:M00045	Histidine degradation	Metabolism & redox	Actinomyces	0.052231699999999999
+KMOD:M00045	Histidine degradation	Metabolism & redox	Campylobacter	0.0072221999999999998
+KMOD:M00045	Histidine degradation	Metabolism & redox	Fusobacterium	0.028214300000000001
+KMOD:M00045	Histidine degradation	Metabolism & redox	Gemella	0
+KMOD:M00045	Histidine degradation	Metabolism & redox	Leptotrichia	0
+KMOD:M00045	Histidine degradation	Metabolism & redox	Neisseria	0.0033333
+KMOD:M00045	Histidine degradation	Metabolism & redox	Porphyromonas	0.79043479999999999
+KMOD:M00045	Histidine degradation	Metabolism & redox	Prevotella	0.086968900000000002
+KMOD:M00045	Histidine degradation	Metabolism & redox	Rothia	0.12666669999999999
+KMOD:M00045	Histidine degradation	Metabolism & redox	Segatella	0
+KMOD:M00045	Histidine degradation	Metabolism & redox	Selenomonas	-0.0119048
+KMOD:M00045	Histidine degradation	Metabolism & redox	Streptococcus	0.1430555
+KMOD:M00045	Histidine degradation	Metabolism & redox	Veillonella	-0.021851200000000001
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Actinomyces	0.30172719999999997
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Campylobacter	0.25
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Fusobacterium	0
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Gemella	0
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Leptotrichia	0
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Neisseria	0.17916670000000001
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Porphyromonas	0
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Prevotella	0.0083031000000000008
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Rothia	0.01
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Segatella	0
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Selenomonas	0
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Streptococcus	0
+KMOD:M00530	Nitrate → ammonia	Metabolism & redox	Veillonella	0.0018939
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Actinomyces	0.023919800000000001
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Campylobacter	-0.1888889
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Fusobacterium	-0.0539286
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Gemella	-0.13333329999999999
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Leptotrichia	0.083333299999999999
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Neisseria	-0.0046296000000000002
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Porphyromonas	-0.14014489999999999
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Prevotella	-0.139212
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Rothia	-0.017543900000000001
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Segatella	0.1666667
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Selenomonas	-0.1666667
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Streptococcus	-0.083611199999999997
+KMOD:M00023	Tryptophan biosynthesis	Metabolism & redox	Veillonella	0.1124994
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Actinomyces	0.29267890000000002
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Campylobacter	-0.12228070000000001
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Fusobacterium	-0.0345648
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Gemella	-0.26995609999999998
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Leptotrichia	-0.0263158
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Neisseria	-0.079298300000000002
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Porphyromonas	0.060183
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Prevotella	-0.037887499999999998
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Rothia	-0.066038799999999995
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Segatella	-0.052631600000000001
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Selenomonas	-0.070175500000000002
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Streptococcus	-0.015350900000000001
+KPATH:map00300	Lysine biosynthesis	Metabolism & redox	Veillonella	0.0074212000000000002
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Actinomyces	0.088350100000000001
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Campylobacter	0
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Fusobacterium	-0.0093536000000000001
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Gemella	-0.068659399999999995
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Leptotrichia	0.0072464000000000001
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Neisseria	0.016616300000000001
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Porphyromonas	-0.0508884
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Prevotella	-0.059788099999999997
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Rothia	-0.015103
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Segatella	0.010352
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Selenomonas	-0.29813669999999998
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Streptococcus	0.073913000000000006
+KPATH:map00052	Galactose metabolism	Metabolism & redox	Veillonella	-0.015296000000000001
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Actinomyces	0.085826200000000005
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Campylobacter	0
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Fusobacterium	0.0328571
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Gemella	0.23749999999999999
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Leptotrichia	0
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Neisseria	0
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Porphyromonas	0.64000000000000001
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Prevotella	0.62445539999999999
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Rothia	0.18315790000000001
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Segatella	0.74603180000000002
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Selenomonas	0
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Streptococcus	0.10000000000000001
+PFAM:PF07275	ArdA antirestriction	Mobile elements & defence	Veillonella	0.037221700000000003
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Actinomyces	-0.24572649999999999
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Campylobacter	0.63666670000000003
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Fusobacterium	0.53025250000000002
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Gemella	0.5
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Leptotrichia	-0.5
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Neisseria	-0.13439609999999999
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Porphyromonas	0.54869570000000001
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Prevotella	0.2642195
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Rothia	0.34105259999999998
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Segatella	0.3015873
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Selenomonas	-0.2142857
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Streptococcus	0.0116667
+PFAM:PF02534	T4SS-DNA transfer	Mobile elements & defence	Veillonella	0.0231138
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Actinomyces	-0.375
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Campylobacter	0.046666699999999998
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Fusobacterium	0.50239540000000005
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Gemella	0.20000000000000001
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Leptotrichia	0
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Neisseria	-0.25869560000000003
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Porphyromonas	0.48173909999999998
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Prevotella	0.2578375
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Rothia	0
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Segatella	0.44444440000000002
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Selenomonas	0.23809520000000001
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Streptococcus	0.0016666999999999999
+PFAM:PF19044	TraG P-loop	Mobile elements & defence	Veillonella	-0.060509399999999998
+PFAM:PF03432	Relaxase	Mobile elements & defence	Actinomyces	0.084757799999999994
+PFAM:PF03432	Relaxase	Mobile elements & defence	Campylobacter	0.10000000000000001
+PFAM:PF03432	Relaxase	Mobile elements & defence	Fusobacterium	0.39087660000000002
+PFAM:PF03432	Relaxase	Mobile elements & defence	Gemella	0.5
+PFAM:PF03432	Relaxase	Mobile elements & defence	Leptotrichia	-0.1666667
+PFAM:PF03432	Relaxase	Mobile elements & defence	Neisseria	0.090821299999999994
+PFAM:PF03432	Relaxase	Mobile elements & defence	Porphyromonas	0.47826089999999999
+PFAM:PF03432	Relaxase	Mobile elements & defence	Prevotella	0.1176731
+PFAM:PF03432	Relaxase	Mobile elements & defence	Rothia	0
+PFAM:PF03432	Relaxase	Mobile elements & defence	Segatella	0.1111111
+PFAM:PF03432	Relaxase	Mobile elements & defence	Selenomonas	0
+PFAM:PF03432	Relaxase	Mobile elements & defence	Streptococcus	0.076666700000000004
+PFAM:PF03432	Relaxase	Mobile elements & defence	Veillonella	-0.022012199999999999
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Actinomyces	0
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Campylobacter	-0.23333329999999999
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Fusobacterium	-0.35544009999999998
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Gemella	0.070833300000000002
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Leptotrichia	-0.5
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Neisseria	0.28782609999999997
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Porphyromonas	-0.043478299999999998
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Prevotella	-0.0032206000000000001
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Rothia	0
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Segatella	-0.15873010000000001
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Selenomonas	-0.52380959999999999
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Streptococcus	-0.063333399999999998
+PFAM:PF10145	Phage minor-tail	Mobile elements & defence	Veillonella	-0.034844600000000003
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Actinomyces	0.2820513
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Campylobacter	0.51333329999999999
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Fusobacterium	0.051150800000000003
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Gemella	0.087499999999999994
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Leptotrichia	0
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Neisseria	-0.23985509999999999
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Porphyromonas	0.093913099999999999
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Prevotella	0.041151800000000002
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Rothia	-0.33684209999999998
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Segatella	0.3333333
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Selenomonas	-0.23809520000000001
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Streptococcus	0.21833340000000001
+PFAM:PF09827	CRISPR Cas2	Mobile elements & defence	Veillonella	0.100831
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Actinomyces	-0.93732199999999999
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Campylobacter	0
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Fusobacterium	-0.30017319999999997
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Gemella	-0.57499999999999996
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Leptotrichia	0
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Neisseria	-0.095990300000000001
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Porphyromonas	0
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Prevotella	-0.0092592999999999998
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Rothia	-0.65473680000000001
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Segatella	0.31746029999999997
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Selenomonas	-0.38095240000000002
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Streptococcus	-0.32166670000000003
+PFAM:PF13333	Integrase rve_2	Mobile elements & defence	Veillonella	-0.21806970000000001
+PFAM:PF07751	Abi_2	Mobile elements & defence	Actinomyces	-0.54914529999999995
+PFAM:PF07751	Abi_2	Mobile elements & defence	Campylobacter	0.083333299999999999
+PFAM:PF07751	Abi_2	Mobile elements & defence	Fusobacterium	0.1085029
+PFAM:PF07751	Abi_2	Mobile elements & defence	Gemella	-0.27500000000000002
+PFAM:PF07751	Abi_2	Mobile elements & defence	Leptotrichia	0.1666667
+PFAM:PF07751	Abi_2	Mobile elements & defence	Neisseria	-0.061739099999999998
+PFAM:PF07751	Abi_2	Mobile elements & defence	Porphyromonas	-0.0043477999999999998
+PFAM:PF07751	Abi_2	Mobile elements & defence	Prevotella	0.0580706
+PFAM:PF07751	Abi_2	Mobile elements & defence	Rothia	-0.8947368
+PFAM:PF07751	Abi_2	Mobile elements & defence	Segatella	-0.015873000000000002
+PFAM:PF07751	Abi_2	Mobile elements & defence	Selenomonas	-0.35714289999999999
+PFAM:PF07751	Abi_2	Mobile elements & defence	Streptococcus	0.16500000000000001
+PFAM:PF07751	Abi_2	Mobile elements & defence	Veillonella	0.16536799999999999
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Actinomyces	-0.375
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Campylobacter	0.79333330000000002
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Fusobacterium	0.097182500000000005
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Gemella	-0.63749999999999996
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Leptotrichia	0.1666667
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Neisseria	0
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Porphyromonas	0.97999999999999998
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Prevotella	0.0034156
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Rothia	0.64210529999999999
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Segatella	0.1111111
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Selenomonas	0.1666667
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Streptococcus	0.17666660000000001
+PFAM:PF06414	Zeta toxin	Mobile elements & defence	Veillonella	-0.13658010000000001
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Actinomyces	0.1745014
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Campylobacter	0.83333330000000005
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Fusobacterium	0.043253899999999998
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Gemella	-0.10000000000000001
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Leptotrichia	0.3333333
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Neisseria	0.55000000000000004
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Porphyromonas	0.086956500000000006
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Prevotella	0.081871399999999997
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Rothia	0.78947369999999994
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Segatella	0
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Selenomonas	0
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Streptococcus	0.13333329999999999
+PFAM:PF08713	DNA alkylation repair	DNA repair & maintenance	Veillonella	0.1020408
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Actinomyces	0.39814820000000001
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Campylobacter	0.1666667
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Fusobacterium	0
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Gemella	0
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Leptotrichia	0.1666667
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Neisseria	-0.0010628
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Porphyromonas	0.26000000000000001
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Prevotella	0.87436219999999998
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Rothia	0
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Segatella	0.71428570000000002
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Selenomonas	-0.3333333
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Streptococcus	0.029999999999999999
+PFAM:PF03852	Vsr mismatch repair	DNA repair & maintenance	Veillonella	0.061224500000000001
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Actinomyces	-0.073005700000000007
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Campylobacter	0
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Fusobacterium	-0.70888890000000004
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Gemella	-0.9375
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Leptotrichia	0
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Neisseria	-0.097777799999999998
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Porphyromonas	0.13043479999999999
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Prevotella	-0.0541868
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Rothia	-0.27578940000000002
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Segatella	-0.28571429999999998
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Selenomonas	-0.28571429999999998
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Streptococcus	0.0083333999999999995
+PFAM:PF02565	RecO C-terminal	DNA repair & maintenance	Veillonella	0.22002550000000001

@@ -1,0 +1,70 @@
+{
+  "runs": [
+    {
+      "stage": 96,
+      "seconds": 10.0,
+      "log": "build/reproduction/logs/96.log"
+    },
+    {
+      "stage": 104,
+      "seconds": 7.44,
+      "log": "build/reproduction/logs/104.log"
+    },
+    {
+      "stage": 111,
+      "seconds": 8.59,
+      "log": "build/reproduction/logs/111.log"
+    }
+  ],
+  "checks": [
+    {
+      "check": "4096-permutation genome-wide screen",
+      "candidate_set_matches": true,
+      "n_candidates": 14,
+      "screen_counts": {
+        "n_profiles": 13917,
+        "raw_nominal": 119,
+        "both_nominal": 23,
+        "raw_FWER_hits": 0,
+        "adjusted_FWER_hits": 0
+      },
+      "max_P_differences": {
+        "raw_perm_p_consistency": 0.0,
+        "adj_perm_p_consistency": 0.0,
+        "raw_perm_p_t": 0.0,
+        "adj_perm_p_t": 0.0
+      },
+      "passed": true
+    },
+    {
+      "check": "nested_genusbalanced_original_HMT_predictions.tsv",
+      "macro_auc": 0.8076923076923077,
+      "expected_auc": 0.8076923076923077,
+      "max_prediction_difference": 0.0,
+      "passed": true
+    },
+    {
+      "check": "nested_genusbalanced_sourcebalanced_HMT_predictions.tsv",
+      "macro_auc": 0.8205128205128205,
+      "expected_auc": 0.8205128205128205,
+      "max_prediction_difference": 0.0,
+      "passed": true
+    },
+    {
+      "check": "nested_genusbalanced_covariate_residualized_original.tsv",
+      "macro_auc": 0.7243589743589743,
+      "expected_auc": 0.7243589743589743,
+      "max_prediction_difference": 0.0,
+      "passed": true
+    },
+    {
+      "check": "nested_genusbalanced_covariate_residualized_sourcebalanced.tsv",
+      "macro_auc": 0.7756410256410255,
+      "expected_auc": 0.7756410256410255,
+      "max_prediction_difference": 0.0,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "screen_permutations": 4096
+}

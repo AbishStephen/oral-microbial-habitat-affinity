@@ -1,0 +1,14 @@
+Pfam	rank	cluster_id	n_proteins	n_genera	genera	row
+PF01638	1	GCA_007990385.1_00101	121	5	Actinomyces;Fusobacterium;Gemella;Leptotrichia;Neisseria	HxlR 01
+PF01638	2	GCA0378938651_00779	111	4	Fusobacterium;Leptotrichia;Selenomonas;Veillonella	HxlR 02
+PF01638	3	GCA_937925415.1_01319	108	3	Fusobacterium;Gemella;Veillonella	HxlR 03
+PF01638	4	GCA_002753855.1_00772	117	2	Prevotella;Segatella	HxlR 04
+PF01638	5	GCA9380307751_00100	104	2	Fusobacterium;Streptococcus	HxlR 05
+PF01638	6	GCA0378974851_01085	91	2	Fusobacterium;Leptotrichia	HxlR 06
+PF04072	1	GCA_938041155.1_01955	195	4	Fusobacterium;Leptotrichia;Selenomonas;Veillonella	LCM 01
+PF04072	2	GCA_938028575.1_00738	100	2	Prevotella;Segatella	LCM 02
+PF04072	3	GCA0378974251_01142	66	1	Fusobacterium	LCM 03
+PF04072	4	GCA9462213551_02172	46	1	Actinomyces	LCM 04
+PF13676	1	GCA_937925415.1_00972	6	2	Gemella;Streptococcus	TIR_2 01
+PF13676	2	GCA_905372815.1_01414	5	2	Prevotella;Segatella	TIR_2 02
+PF13676	3	GCA0025293551_00374	5	2	Porphyromonas;Prevotella	TIR_2 03

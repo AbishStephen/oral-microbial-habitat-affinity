@@ -1,0 +1,14 @@
+[
+  {
+    "script": "106_nested_permutation.py",
+    "seconds": 6.42,
+    "max_auc_difference": 0.0,
+    "passed": true
+  },
+  {
+    "script": "112_covar_fullrefit_permutation.py",
+    "seconds": 8.02,
+    "max_auc_difference": 0.0,
+    "passed": true
+  }
+]

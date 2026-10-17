@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "homd-genomic-signatures"
+version = "0.1.0"
+description = "Reproducible comparative genomics of oral plaque and mucosal habitat affinity"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.3.5", "pandas==2.2.3", "scipy==1.17.0", "scikit-learn==1.8.0", "matplotlib==3.10.8", "biopython==1.85"]
+
+[project.scripts]
+homd-reproduce = "homd_signatures.reproduce:main"
+homd-neighborhoods = "homd_signatures.neighborhoods:main"
+homd-plot-neighborhoods = "homd_signatures.plot_neighborhoods:main"
+homd-main-figures = "homd_signatures.figures:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

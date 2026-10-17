@@ -1,0 +1,7 @@
+model	ecology_outcome	macro_within_genus_AUC	genus_bootstrap_95_low	genus_bootstrap_95_high	null_type	permutation_empirical_p
+Existing pooled-rank	original	0.948718	0.858974	1.0	previous null	
+Genus-balanced nested	original	0.807692	0.615385	0.961538	200 full refits	0.00995
+Genus-balanced nested, genome covariate-residualized	original	0.724359	0.49359	0.923077	100 full refits; within-genus phenotype permutation	0.09901
+Existing pooled-rank	source-family-balanced	0.782051	0.570513	0.961538	previous null	
+Genus-balanced nested	source-family-balanced	0.820513	0.641026	0.961538	200 full refits	0.00995
+Genus-balanced nested, genome covariate-residualized	source-family-balanced	0.775641	0.564103	0.955128	100 full refits; within-genus phenotype permutation	0.059406

@@ -1,0 +1,47 @@
+[
+  {
+    "figure": 1,
+    "seconds": 2.84,
+    "outputs": [
+      "Figure1/HOMD_Figure1_13genus_phylogenetic_ecological_atlas.svg",
+      "Figure1/HOMD_Figure1_13genus_phylogenetic_ecological_atlas.png",
+      "Figure1/HOMD_Figure1_13genus_phylogenetic_ecological_atlas.pdf"
+    ]
+  },
+  {
+    "figure": 2,
+    "seconds": 2.18,
+    "outputs": [
+      "Figure2/HOMD_Figure2_functional_genomic_atlas.pdf",
+      "Figure2/HOMD_Figure2_functional_genomic_atlas.svg",
+      "Figure2/HOMD_Figure2_functional_genomic_atlas.png"
+    ]
+  },
+  {
+    "figure": 3,
+    "seconds": 2.43,
+    "outputs": [
+      "Figure3/HOMD_Figure3_domain_to_protein_context.pdf",
+      "Figure3/HOMD_Figure3_domain_to_protein_context.svg",
+      "Figure3/HOMD_Figure3_domain_to_protein_context.png"
+    ]
+  },
+  {
+    "figure": 4,
+    "seconds": 3.01,
+    "outputs": [
+      "Figure4/HOMD_Figure4_GFF_genomic_architectures.png",
+      "Figure4/HOMD_Figure4_GFF_genomic_architectures.svg",
+      "Figure4/HOMD_Figure4_GFF_genomic_architectures.pdf"
+    ]
+  },
+  {
+    "figure": 5,
+    "seconds": 2.63,
+    "outputs": [
+      "Figure5/figures/HOMD_Figure5_prediction_only.pdf",
+      "Figure5/figures/HOMD_Figure5_prediction_only.png",
+      "Figure5/figures/HOMD_Figure5_prediction_only.svg"
+    ]
+  }
+]

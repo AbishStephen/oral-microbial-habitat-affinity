@@ -1,0 +1,7 @@
+stage	n
+genomic profiles	13917
+raw consistency p<0.05	119
+raw and genome-adjusted nominal	23
+nominal plus 5 genera 3 phyla	14
+curated illustrative atlas, independent branch	41
+all-feature FWER at p<0.05	0

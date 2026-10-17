@@ -1,0 +1,7 @@
+figure	analysis_stages	r_script	source_data	exports	verification
+Figure 1	cohort builder; 55, 59	r/figure1.R	figure_sources/Figure1	results/R/Figure1.pdf	Frozen source-data checks; see TEST_REPORT.md
+Figure 2	96, 98	r/figure2.R	figure_sources/Figure2	results/R/Figure2.pdf	Frozen source-data checks; see TEST_REPORT.md
+Figure 3	97, 107, 109	r/figure3.R	figure_sources/Figure3	results/R/Figure3.pdf	Frozen source-data checks; see TEST_REPORT.md
+Figure 4	100–103, 107, 109	r/figure4.R	figure_sources/Figure4	results/R/Figure4.pdf	Frozen source-data checks; see TEST_REPORT.md
+Figure 5	104, 106, 111–113	r/figure5.R	figure_sources/Figure5	results/R/Figure5.pdf	Frozen source-data checks; see TEST_REPORT.md
+Supplementary neighbourhood atlas	164, 166, 167; compact coordinate extraction	r/supplement.R	data/frozen/neighborhoods	results/R/Supplementary_candidate_domain_neighborhoods.pdf	30 loci and 206 gene records; see TEST_REPORT.md
